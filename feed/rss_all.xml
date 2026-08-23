@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for All Brands firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:51:03 GMT</lastBuildDate>
     <item>
       <title>POCO M8 5G / REDMI Note 15 5G OS3.0.303.0.WPQINXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPQINXM/kunzite_in_global-ota_full-OS3.0.303.0.WPQINXM-user-16.0-70ebcebadf.zip</link>
@@ -91,6 +91,48 @@
         <br/><a href="https://ximitime.com/hyperos/dash/version/OS3.0.303.0.WPLINXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPLINXM/dash_in_global-ota_full-OS3.0.303.0.WPLINXM-user-16.0-eb7f5f52eb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 OS3.0.303.0.WPCTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCTWXM/pudding_tw_global-ota_full-OS3.0.303.0.WPCTWXM-user-16.0-eb05606857.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCTWXM/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.30 GB
+        <br/>Date: 2026-08-20
+        <br/>Version: OS3.0.303.0.WPCTWXM
+        <br/>MD5: eb056068577b7c86bdaf63318d7abb0f
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCTWXM/pudding_tw_global-ota_full-OS3.0.303.0.WPCTWXM-user-16.0-eb05606857.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCTWXM/pudding_tw_global-ota_full-OS3.0.303.0.WPCTWXM-user-16.0-eb05606857.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.303.0.WPZIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZIDXM/yupei_id_global-ota_full-OS3.0.303.0.WPZIDXM-user-16.0-2b12cd187f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZIDXM/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.60 GB
+        <br/>Date: 2026-08-20
+        <br/>Version: OS3.0.303.0.WPZIDXM
+        <br/>MD5: 2b12cd187ff820b5f9700404dc19c025
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZIDXM/yupei_id_global-ota_full-OS3.0.303.0.WPZIDXM-user-16.0-2b12cd187f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZIDXM/yupei_id_global-ota_full-OS3.0.303.0.WPZIDXM-user-16.0-2b12cd187f.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO C Pad / REDMI Pad SE 2 / REDMI Pad 2 9.7 OS3.0.306.0.WDNRUXM</title>
@@ -219,6 +261,48 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPGTWXM/spinel_tw_global-ota_full-OS3.0.301.0.WPGTWXM-user-16.0-998f093a07.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.302.0.WPKIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.302.0.WPKIDXM-user-16.0-240aad8b55.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKIDXM/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-08-18
+        <br/>Version: OS3.0.302.0.WPKIDXM
+        <br/>MD5: 240aad8b55f4ecdb06b0761cacf78aca
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.302.0.WPKIDXM-user-16.0-240aad8b55.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.302.0.WPKIDXM-user-16.0-240aad8b55.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 OS3.0.303.0.WPCIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCIDXM/pudding_id_global-ota_full-OS3.0.303.0.WPCIDXM-user-16.0-3299262bd9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCIDXM/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-08-18
+        <br/>Version: OS3.0.303.0.WPCIDXM
+        <br/>MD5: 3299262bd9604348fc21e8bca38bd238
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCIDXM/pudding_id_global-ota_full-OS3.0.303.0.WPCIDXM-user-16.0-3299262bd9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCIDXM/pudding_id_global-ota_full-OS3.0.303.0.WPCIDXM-user-16.0-3299262bd9.zip" type="application/zip" />
+    </item>
+    <item>
       <title>REDMI 17 / POCO M8x 5G / REDMI M100 OS3.0.302.0.WAVCNXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WAVCNXM/steppe-ota_full-OS3.0.302.0.WAVCNXM-user-16.0-afb37ff441.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/steppe/version/OS3.0.302.0.WAVCNXM/</guid>
@@ -259,6 +343,111 @@
         <br/><a href="https://ximitime.com/hyperos/spring/version/OS3.0.303.0.WOUMIXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOUMIXM/spring_global-ota_full-OS3.0.303.0.WOUMIXM-user-16.0-79dd084456.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.302.0.WPXINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPXINXM/organ_in_global-ota_full-OS3.0.302.0.WPXINXM-user-16.0-a7e2f6bef1.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.302.0.WPXINXM/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.60 GB
+        <br/>Date: 2026-08-17
+        <br/>Version: OS3.0.302.0.WPXINXM
+        <br/>MD5: a7e2f6bef101aba820e772ef07a56d43
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPXINXM/organ_in_global-ota_full-OS3.0.302.0.WPXINXM-user-16.0-a7e2f6bef1.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.302.0.WPXINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPXINXM/organ_in_global-ota_full-OS3.0.302.0.WPXINXM-user-16.0-a7e2f6bef1.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F8 Ultra / REDMI K90 Pro Max OS3.0.302.0.WPMMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMMIXM/myron_global-ota_full-OS3.0.302.0.WPMMIXM-user-16.0-83eb2bafc4.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMMIXM/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F8 Ultra / REDMI K90 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.80 GB
+        <br/>Date: 2026-08-17
+        <br/>Version: OS3.0.302.0.WPMMIXM
+        <br/>MD5: 83eb2bafc45993c30b0be45b8a1fa1b6
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMMIXM/myron_global-ota_full-OS3.0.302.0.WPMMIXM-user-16.0-83eb2bafc4.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMMIXM/myron_global-ota_full-OS3.0.302.0.WPMMIXM-user-16.0-83eb2bafc4.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F8 Ultra / REDMI K90 Pro Max OS3.0.302.0.WPMTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.302.0.WPMTWXM-user-16.0-5c7c8a20cd.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMTWXM/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F8 Ultra / REDMI K90 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.70 GB
+        <br/>Date: 2026-08-17
+        <br/>Version: OS3.0.302.0.WPMTWXM
+        <br/>MD5: 5c7c8a20cd12feb2f42ad9e87b18ebd4
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.302.0.WPMTWXM-user-16.0-5c7c8a20cd.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.302.0.WPMTWXM-user-16.0-5c7c8a20cd.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F8 Ultra / REDMI K90 Pro Max OS3.0.302.0.WPMIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMIDXM/myron_id_global-ota_full-OS3.0.302.0.WPMIDXM-user-16.0-6773506f0f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMIDXM/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F8 Ultra / REDMI K90 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.80 GB
+        <br/>Date: 2026-08-17
+        <br/>Version: OS3.0.302.0.WPMIDXM
+        <br/>MD5: 6773506f0fa8d752ed162d32db874bce
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMIDXM/myron_id_global-ota_full-OS3.0.302.0.WPMIDXM-user-16.0-6773506f0f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMIDXM/myron_id_global-ota_full-OS3.0.302.0.WPMIDXM-user-16.0-6773506f0f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 OS3.0.303.0.WPCRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCRUXM/pudding_ru_global-ota_full-OS3.0.303.0.WPCRUXM-user-16.0-1f3fac29d6.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCRUXM/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.30 GB
+        <br/>Date: 2026-08-17
+        <br/>Version: OS3.0.303.0.WPCRUXM
+        <br/>MD5: 1f3fac29d61e1ebd7843ff5bf8ff0476
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCRUXM/pudding_ru_global-ota_full-OS3.0.303.0.WPCRUXM-user-16.0-1f3fac29d6.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pudding/version/OS3.0.303.0.WPCRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPCRUXM/pudding_ru_global-ota_full-OS3.0.303.0.WPCRUXM-user-16.0-1f3fac29d6.zip" type="application/zip" />
     </item>
     <item>
       <title>REDMI 17 4G / POCO C95 Pro OS3.0.301.0.WDTEUXM</title>
@@ -366,6 +555,90 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOUTRXM/spring_tr_global-ota_full-OS3.0.302.0.WOUTRXM-user-16.0-e002558b2a.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.302.0.WPKTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKTRXM/annibale_tr_global-ota_full-OS3.0.302.0.WPKTRXM-user-16.0-87193068eb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKTRXM/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-08-14
+        <br/>Version: OS3.0.302.0.WPKTRXM
+        <br/>MD5: 87193068eb2415c1d9f935c38e7abb43
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKTRXM/annibale_tr_global-ota_full-OS3.0.302.0.WPKTRXM-user-16.0-87193068eb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKTRXM/annibale_tr_global-ota_full-OS3.0.302.0.WPKTRXM-user-16.0-87193068eb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.303.0.WPZINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZINXM/yupei_in_global-ota_full-OS3.0.303.0.WPZINXM-user-16.0-46df49e3b7.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZINXM/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-08-14
+        <br/>Version: OS3.0.303.0.WPZINXM
+        <br/>MD5: 46df49e3b7f8389464c9895d6b76bcde
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZINXM/yupei_in_global-ota_full-OS3.0.303.0.WPZINXM-user-16.0-46df49e3b7.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZINXM/yupei_in_global-ota_full-OS3.0.303.0.WPZINXM-user-16.0-46df49e3b7.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.304.0.WPZRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPZRUXM/yupei_ru_global-ota_full-OS3.0.304.0.WPZRUXM-user-16.0-d0e5c81ea4.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.304.0.WPZRUXM/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.50 GB
+        <br/>Date: 2026-08-14
+        <br/>Version: OS3.0.304.0.WPZRUXM
+        <br/>MD5: d0e5c81ea46f7dc7c4ce00f9fa2904fd
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPZRUXM/yupei_ru_global-ota_full-OS3.0.304.0.WPZRUXM-user-16.0-d0e5c81ea4.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.304.0.WPZRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPZRUXM/yupei_ru_global-ota_full-OS3.0.304.0.WPZRUXM-user-16.0-d0e5c81ea4.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.305.0.WPXCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPXCNXM/organ-ota_full-OS3.0.305.0.WPXCNXM-user-16.0-b25ba793ab.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.305.0.WPXCNXM/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.10 GB
+        <br/>Date: 2026-08-13
+        <br/>Version: OS3.0.305.0.WPXCNXM
+        <br/>MD5: b25ba793ab808a35a97d6457c09f05f7
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPXCNXM/organ-ota_full-OS3.0.305.0.WPXCNXM-user-16.0-b25ba793ab.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.305.0.WPXCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPXCNXM/organ-ota_full-OS3.0.305.0.WPXCNXM-user-16.0-b25ba793ab.zip" type="application/zip" />
+    </item>
+    <item>
       <title>REDMI 17 / POCO M8x 5G / REDMI M100 OS3.0.305.0.WAVEUXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WAVEUXM/steppe_eea_global-ota_full-OS3.0.305.0.WAVEUXM-user-16.0-18a6d29607.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/steppe/version/OS3.0.305.0.WAVEUXM/</guid>
@@ -406,6 +679,27 @@
         <br/><a href="https://ximitime.com/hyperos/mist/version/OS3.0.304.0.WPUINXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPUINXM/mist_in_global-ota_full-OS3.0.304.0.WPUINXM-user-16.0-c14f89122f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.302.0.WPKRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKRUXM/annibale_ru_global-ota_full-OS3.0.302.0.WPKRUXM-user-16.0-d000a04055.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKRUXM/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.30 GB
+        <br/>Date: 2026-08-12
+        <br/>Version: OS3.0.302.0.WPKRUXM
+        <br/>MD5: d000a04055982cee362b23106d773125
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKRUXM/annibale_ru_global-ota_full-OS3.0.302.0.WPKRUXM-user-16.0-d000a04055.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.302.0.WPKRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPKRUXM/annibale_ru_global-ota_full-OS3.0.302.0.WPKRUXM-user-16.0-d000a04055.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO F9 Pro / REDMI K100 Pro OS3.0.306.0.WPICNXM</title>
@@ -469,6 +763,48 @@
         <br/><a href="https://ximitime.com/hyperos/spring/version/OS3.0.303.0.WOUINXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOUINXM/spring_in_global-ota_full-OS3.0.303.0.WOUINXM-user-16.0-e729e9b907.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 OS3.0.318.0.WPCCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WPCCNXM/pudding-ota_full-OS3.0.318.0.WPCCNXM-user-16.0-d8067aea90.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pudding/version/OS3.0.318.0.WPCCNXM/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.50 GB
+        <br/>Date: 2026-08-11
+        <br/>Version: OS3.0.318.0.WPCCNXM
+        <br/>MD5: d8067aea90f2830024c0c48d8b292a5b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WPCCNXM/pudding-ota_full-OS3.0.318.0.WPCCNXM-user-16.0-d8067aea90.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pudding/version/OS3.0.318.0.WPCCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WPCCNXM/pudding-ota_full-OS3.0.318.0.WPCCNXM-user-16.0-d8067aea90.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Pro OS3.0.318.0.WBLCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WBLCNXM/pandora-ota_full-OS3.0.318.0.WBLCNXM-user-16.0-082e9f32b8.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pandora/version/OS3.0.318.0.WBLCNXM/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.20 GB
+        <br/>Date: 2026-08-11
+        <br/>Version: OS3.0.318.0.WBLCNXM
+        <br/>MD5: 082e9f32b8444b8b57745ef22cf93ccb
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WBLCNXM/pandora-ota_full-OS3.0.318.0.WBLCNXM-user-16.0-082e9f32b8.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pandora/version/OS3.0.318.0.WBLCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.318.0.WBLCNXM/pandora-ota_full-OS3.0.318.0.WBLCNXM-user-16.0-082e9f32b8.zip" type="application/zip" />
     </item>
     <item>
       <title>REDMI 17 4G / POCO C95 Pro OS3.0.305.0.WDTMIXM</title>
@@ -618,6 +954,90 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPGTRXM/spinel_tr_global-ota_full-OS3.0.301.0.WPGTRXM-user-16.0-4a5ad91d2c.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.303.0.WPXEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXEUXM/organ_eea_global-ota_full-OS3.0.303.0.WPXEUXM-user-16.0-8df953c6fe.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.303.0.WPXEUXM/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.80 GB
+        <br/>Date: 2026-08-10
+        <br/>Version: OS3.0.303.0.WPXEUXM
+        <br/>MD5: 8df953c6fead90624372ec3dcc3d4ee6
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXEUXM/organ_eea_global-ota_full-OS3.0.303.0.WPXEUXM-user-16.0-8df953c6fe.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.303.0.WPXEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXEUXM/organ_eea_global-ota_full-OS3.0.303.0.WPXEUXM-user-16.0-8df953c6fe.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.303.0.WPZTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTRXM/yupei_tr_global-ota_full-OS3.0.303.0.WPZTRXM-user-16.0-cd682a204c.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZTRXM/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.60 GB
+        <br/>Date: 2026-08-10
+        <br/>Version: OS3.0.303.0.WPZTRXM
+        <br/>MD5: cd682a204cd555d4547f8f0bdb8e17ca
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTRXM/yupei_tr_global-ota_full-OS3.0.303.0.WPZTRXM-user-16.0-cd682a204c.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTRXM/yupei_tr_global-ota_full-OS3.0.303.0.WPZTRXM-user-16.0-cd682a204c.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.303.0.WPZTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTWXM/yupei_tw_global-ota_full-OS3.0.303.0.WPZTWXM-user-16.0-51f9f69992.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZTWXM/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.50 GB
+        <br/>Date: 2026-08-10
+        <br/>Version: OS3.0.303.0.WPZTWXM
+        <br/>MD5: 51f9f69992a6eefe1e88efeef5cf91b9
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTWXM/yupei_tw_global-ota_full-OS3.0.303.0.WPZTWXM-user-16.0-51f9f69992.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZTWXM/yupei_tw_global-ota_full-OS3.0.303.0.WPZTWXM-user-16.0-51f9f69992.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 Pro OS3.0.303.0.WPYIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPYIDXM/piano_id_global-ota_full-OS3.0.303.0.WPYIDXM-user-16.0-8d4c96c3bb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/piano/version/OS3.0.303.0.WPYIDXM/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.00 GB
+        <br/>Date: 2026-08-10
+        <br/>Version: OS3.0.303.0.WPYIDXM
+        <br/>MD5: 8d4c96c3bb48be2f755e305481f84721
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPYIDXM/piano_id_global-ota_full-OS3.0.303.0.WPYIDXM-user-16.0-8d4c96c3bb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/piano/version/OS3.0.303.0.WPYIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPYIDXM/piano_id_global-ota_full-OS3.0.303.0.WPYIDXM-user-16.0-8d4c96c3bb.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO C81 / REDMI A7 Pro OS3.0.12.0.WBVMIXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.12.0.WBVMIXM/arctic_global-ota_full-OS3.0.12.0.WBVMIXM-user-16.0-cf14a45af2.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/arctic/version/OS3.0.12.0.WBVMIXM/</guid>
@@ -679,6 +1099,69 @@
         <br/><a href="https://ximitime.com/hyperos/warhol/version/OS3.0.309.0.WPSCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPSCNXM/warhol-ota_full-OS3.0.309.0.WPSCNXM-user-16.0-262bf93f8a.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.305.0.WPZEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPZEUXM/yupei_eea_global-ota_full-OS3.0.305.0.WPZEUXM-user-16.0-64243e9b93.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.305.0.WPZEUXM/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.30 GB
+        <br/>Date: 2026-08-07
+        <br/>Version: OS3.0.305.0.WPZEUXM
+        <br/>MD5: 64243e9b934400f8d31e72199bcc890b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPZEUXM/yupei_eea_global-ota_full-OS3.0.305.0.WPZEUXM-user-16.0-64243e9b93.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.305.0.WPZEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPZEUXM/yupei_eea_global-ota_full-OS3.0.305.0.WPZEUXM-user-16.0-64243e9b93.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 Pro OS3.0.305.0.WPYEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPYEUXM/piano_eea_global-ota_full-OS3.0.305.0.WPYEUXM-user-16.0-6aee83d39c.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/piano/version/OS3.0.305.0.WPYEUXM/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.70 GB
+        <br/>Date: 2026-08-07
+        <br/>Version: OS3.0.305.0.WPYEUXM
+        <br/>MD5: 6aee83d39cab68ab599da5a9ae2a9cbf
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPYEUXM/piano_eea_global-ota_full-OS3.0.305.0.WPYEUXM-user-16.0-6aee83d39c.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/piano/version/OS3.0.305.0.WPYEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPYEUXM/piano_eea_global-ota_full-OS3.0.305.0.WPYEUXM-user-16.0-6aee83d39c.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.303.0.WPXMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXMIXM/organ_global-ota_full-OS3.0.303.0.WPXMIXM-user-16.0-ff83d59492.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.303.0.WPXMIXM/</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.80 GB
+        <br/>Date: 2026-08-06
+        <br/>Version: OS3.0.303.0.WPXMIXM
+        <br/>MD5: ff83d59492004bb54f92e426357e86b4
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXMIXM/organ_global-ota_full-OS3.0.303.0.WPXMIXM-user-16.0-ff83d59492.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.303.0.WPXMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPXMIXM/organ_global-ota_full-OS3.0.303.0.WPXMIXM-user-16.0-ff83d59492.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO X8 Pro Max / REDMI Turbo 5 Max OS3.0.303.0.WPLMIXM</title>
@@ -765,6 +1248,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WBVRUXM/arctic_ru_global-ota_full-OS3.0.7.0.WBVRUXM-user-16.0-387b7bfca6.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI Note 15 Pro 4G OS3.0.302.0.WPFRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.302.0.WPFRUXM-user-16.0-703eba8c46.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFRUXM/</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Note 15 Pro 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.50 GB
+        <br/>Date: 2026-08-04
+        <br/>Version: OS3.0.302.0.WPFRUXM
+        <br/>MD5: 703eba8c4641deddadb2eb22d025e737
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.302.0.WPFRUXM-user-16.0-703eba8c46.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFRUXM/charoite_ru_global-ota_full-OS3.0.302.0.WPFRUXM-user-16.0-703eba8c46.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi 17T Pro OS3.0.304.0.WPSIDXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPSIDXM/warhol_id_global-ota_full-OS3.0.304.0.WPSIDXM-user-16.0-1e4ab36af0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/warhol/version/OS3.0.304.0.WPSIDXM/</guid>
@@ -807,6 +1311,111 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WOUTWXM/spring_tw_global-ota_full-OS3.0.301.0.WOUTWXM-user-16.0-4d50b045a3.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI Note 15 Pro 4G OS3.0.302.0.WPFEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFEUXM/charoite_eea_global-ota_full-OS3.0.302.0.WPFEUXM-user-16.0-e2759fe9b7.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFEUXM/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Note 15 Pro 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.60 GB
+        <br/>Date: 2026-08-03
+        <br/>Version: OS3.0.302.0.WPFEUXM
+        <br/>MD5: e2759fe9b72df7b3f6b99672eaae4537
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFEUXM/charoite_eea_global-ota_full-OS3.0.302.0.WPFEUXM-user-16.0-e2759fe9b7.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFEUXM/charoite_eea_global-ota_full-OS3.0.302.0.WPFEUXM-user-16.0-e2759fe9b7.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Note 15 Pro 4G OS3.0.302.0.WPFTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFTRXM/charoite_tr_global-ota_full-OS3.0.302.0.WPFTRXM-user-16.0-af88fc187f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFTRXM/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Note 15 Pro 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.60 GB
+        <br/>Date: 2026-08-03
+        <br/>Version: OS3.0.302.0.WPFTRXM
+        <br/>MD5: af88fc187fe1c5739bfe124d6877ed02
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFTRXM/charoite_tr_global-ota_full-OS3.0.302.0.WPFTRXM-user-16.0-af88fc187f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/charoite/version/OS3.0.302.0.WPFTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPFTRXM/charoite_tr_global-ota_full-OS3.0.302.0.WPFTRXM-user-16.0-af88fc187f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.301.0.WPXRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXRUXM/organ_ru_global-ota_full-OS3.0.301.0.WPXRUXM-user-16.0-522b0025e8.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.301.0.WPXRUXM/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.70 GB
+        <br/>Date: 2026-08-03
+        <br/>Version: OS3.0.301.0.WPXRUXM
+        <br/>MD5: 522b0025e82c87072fe490805882b5cc
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXRUXM/organ_ru_global-ota_full-OS3.0.301.0.WPXRUXM-user-16.0-522b0025e8.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.301.0.WPXRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXRUXM/organ_ru_global-ota_full-OS3.0.301.0.WPXRUXM-user-16.0-522b0025e8.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.307.0.WPKCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPKCNXM/annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.307.0.WPKCNXM/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.40 GB
+        <br/>Date: 2026-08-03
+        <br/>Version: OS3.0.307.0.WPKCNXM
+        <br/>MD5: 94dcf5f934dc654baad7a205df27da71
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPKCNXM/annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.307.0.WPKCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPKCNXM/annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.309.0.WPZCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPZCNXM/yupei-ota_full-OS3.0.309.0.WPZCNXM-user-16.0-b66b0e7965.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.309.0.WPZCNXM/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.80 GB
+        <br/>Date: 2026-08-03
+        <br/>Version: OS3.0.309.0.WPZCNXM
+        <br/>MD5: b66b0e7965c396cf81eb3d4c7b5bac3a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPZCNXM/yupei-ota_full-OS3.0.309.0.WPZCNXM-user-16.0-b66b0e7965.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.309.0.WPZCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPZCNXM/yupei-ota_full-OS3.0.309.0.WPZCNXM-user-16.0-b66b0e7965.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO X8 / REDMI Note 17 Pro 5G OS3.0.308.0.WDQCNXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WDQCNXM/iolite-ota_full-OS3.0.308.0.WDQCNXM-user-16.0-a22631d29f.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/iolite/version/OS3.0.308.0.WDQCNXM/</guid>
@@ -847,6 +1456,27 @@
         <br/><a href="https://ximitime.com/hyperos/byron/version/OS3.0.308.0.WAFCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WAFCNXM/byron-ota_full-OS3.0.308.0.WAFCNXM-user-16.0-3fc387925d.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F8 Ultra / REDMI K90 Pro Max OS3.0.302.0.WPMEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMEUXM/myron_eea_global-ota_full-OS3.0.302.0.WPMEUXM-user-16.0-7f367b5c25.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMEUXM/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F8 Ultra / REDMI K90 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.80 GB
+        <br/>Date: 2026-07-31
+        <br/>Version: OS3.0.302.0.WPMEUXM
+        <br/>MD5: 7f367b5c2536c5dc6bfebeb62315d56a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMEUXM/myron_eea_global-ota_full-OS3.0.302.0.WPMEUXM-user-16.0-7f367b5c25.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/myron/version/OS3.0.302.0.WPMEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPMEUXM/myron_eea_global-ota_full-OS3.0.302.0.WPMEUXM-user-16.0-7f367b5c25.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 17T Pro OS3.0.305.0.WPSRUXM</title>
@@ -912,6 +1542,48 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPSTRXM/warhol_tr_global-ota_full-OS3.0.304.0.WPSTRXM-user-16.0-8cbf29cde8.zip" type="application/zip" />
     </item>
     <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.301.0.WPKEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKEUXM/annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.301.0.WPKEUXM/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-07-28
+        <br/>Version: OS3.0.301.0.WPKEUXM
+        <br/>MD5: 2fdc97d33a467c491449df7ec061be72
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKEUXM/annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.301.0.WPKEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKEUXM/annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F8 Ultra / REDMI K90 Pro Max OS3.0.308.0.WPMCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WPMCNXM/myron-ota_full-OS3.0.308.0.WPMCNXM-user-16.0-96c19b140b.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/myron/version/OS3.0.308.0.WPMCNXM/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F8 Ultra / REDMI K90 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 9.10 GB
+        <br/>Date: 2026-07-28
+        <br/>Version: OS3.0.308.0.WPMCNXM
+        <br/>MD5: 96c19b140b39a449df8faa3945dc3ac2
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WPMCNXM/myron-ota_full-OS3.0.308.0.WPMCNXM-user-16.0-96c19b140b.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/myron/version/OS3.0.308.0.WPMCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WPMCNXM/myron-ota_full-OS3.0.308.0.WPMCNXM-user-16.0-96c19b140b.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO M8s / POCO M7 Plus / REDMI 15 OS3.0.301.0.WOUJPXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WOUJPXM/spring_jp_global-ota_full-OS3.0.301.0.WOUJPXM-user-16.0-794d735719.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/spring/version/OS3.0.301.0.WOUJPXM/</guid>
@@ -931,6 +1603,153 @@
         <br/><a href="https://ximitime.com/hyperos/spring/version/OS3.0.301.0.WOUJPXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WOUJPXM/spring_jp_global-ota_full-OS3.0.301.0.WOUJPXM-user-16.0-794d735719.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition OS3.0.309.0.WPACNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPACNXM/nezha-ota_full-OS3.0.309.0.WPACNXM-user-16.0-e50c8b894f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nezha/version/OS3.0.309.0.WPACNXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 9.50 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.309.0.WPACNXM
+        <br/>MD5: e50c8b894faed4a61da07efc5bc2d338
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPACNXM/nezha-ota_full-OS3.0.309.0.WPACNXM-user-16.0-e50c8b894f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nezha/version/OS3.0.309.0.WPACNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WPACNXM/nezha-ota_full-OS3.0.309.0.WPACNXM-user-16.0-e50c8b894f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition OS3.0.305.0.WPAIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPAIDXM/nezha_id_global-ota_full-OS3.0.305.0.WPAIDXM-user-16.0-ccd336125c.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPAIDXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.70 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.305.0.WPAIDXM
+        <br/>MD5: ccd336125c9ab03e12e8473cf5e231e7
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPAIDXM/nezha_id_global-ota_full-OS3.0.305.0.WPAIDXM-user-16.0-ccd336125c.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPAIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPAIDXM/nezha_id_global-ota_full-OS3.0.305.0.WPAIDXM-user-16.0-ccd336125c.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition OS3.0.305.0.WPARUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPARUXM/nezha_ru_global-ota_full-OS3.0.305.0.WPARUXM-user-16.0-822a13b938.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPARUXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.60 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.305.0.WPARUXM
+        <br/>MD5: 822a13b9387bbb4123c65cec3c4d60be
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPARUXM/nezha_ru_global-ota_full-OS3.0.305.0.WPARUXM-user-16.0-822a13b938.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPARUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPARUXM/nezha_ru_global-ota_full-OS3.0.305.0.WPARUXM-user-16.0-822a13b938.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition OS3.0.305.0.WPATRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATRXM/nezha_tr_global-ota_full-OS3.0.305.0.WPATRXM-user-16.0-cb6b50a26f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPATRXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.70 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.305.0.WPATRXM
+        <br/>MD5: cb6b50a26f768127a6727807ddd2e6df
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATRXM/nezha_tr_global-ota_full-OS3.0.305.0.WPATRXM-user-16.0-cb6b50a26f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPATRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATRXM/nezha_tr_global-ota_full-OS3.0.305.0.WPATRXM-user-16.0-cb6b50a26f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition OS3.0.305.0.WPATWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATWXM/nezha_tw_global-ota_full-OS3.0.305.0.WPATWXM-user-16.0-5b92d91f0e.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPATWXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17 Ultra / Leitzphone powered by Xiaomi / Xiaomi 17 Ultra Leica Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.60 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.305.0.WPATWXM
+        <br/>MD5: 5b92d91f0e8763b384fdc750b071f85b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATWXM/nezha_tw_global-ota_full-OS3.0.305.0.WPATWXM-user-16.0-5b92d91f0e.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nezha/version/OS3.0.305.0.WPATWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPATWXM/nezha_tw_global-ota_full-OS3.0.305.0.WPATWXM-user-16.0-5b92d91f0e.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Pad 2 Pro 5G OS3.0.301.0.WPXTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXTWXM/organ_tw_global-ota_full-OS3.0.301.0.WPXTWXM-user-16.0-447dcfb62f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/organ/version/OS3.0.301.0.WPXTWXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Pad 2 Pro 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.70 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.301.0.WPXTWXM
+        <br/>MD5: 447dcfb62f5e52997deed4ee0b665924
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXTWXM/organ_tw_global-ota_full-OS3.0.301.0.WPXTWXM-user-16.0-447dcfb62f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/organ/version/OS3.0.301.0.WPXTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPXTWXM/organ_tw_global-ota_full-OS3.0.301.0.WPXTWXM-user-16.0-447dcfb62f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.301.0.WPKMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKMIXM/annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.301.0.WPKMIXM/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-07-27
+        <br/>Version: OS3.0.301.0.WPKMIXM
+        <br/>MD5: b17d43c9937470fdd024fde8ab6ab439
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKMIXM/annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.301.0.WPKMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPKMIXM/annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 17T OS3.0.315.0.WPTEUXM</title>
@@ -996,6 +1815,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPRINXM/flourite_in_global-ota_full-OS3.0.303.0.WPRINXM-user-16.0-50ebd70fd1.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi Pad 8 Pro OS3.0.307.0.WPYCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPYCNXM/piano-ota_full-OS3.0.307.0.WPYCNXM-user-16.0-8b22c582a6.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/piano/version/OS3.0.307.0.WPYCNXM/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 9.20 GB
+        <br/>Date: 2026-07-24
+        <br/>Version: OS3.0.307.0.WPYCNXM
+        <br/>MD5: 8b22c582a6ee47066c188fdaa1e9a8ee
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPYCNXM/piano-ota_full-OS3.0.307.0.WPYCNXM-user-16.0-8b22c582a6.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/piano/version/OS3.0.307.0.WPYCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPYCNXM/piano-ota_full-OS3.0.307.0.WPYCNXM-user-16.0-8b22c582a6.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO M8 Pro 5G / REDMI Note 15 Pro+ OS3.0.316.0.WPRCNXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.316.0.WPRCNXM/flourite-ota_full-OS3.0.316.0.WPRCNXM-user-16.0-d0a2cc710b.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/flourite/version/OS3.0.316.0.WPRCNXM/</guid>
@@ -1015,6 +1855,27 @@
         <br/><a href="https://ximitime.com/hyperos/flourite/version/OS3.0.316.0.WPRCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.316.0.WPRCNXM/flourite-ota_full-OS3.0.316.0.WPRCNXM-user-16.0-d0a2cc710b.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI Note 15 Pro 4G OS3.0.303.0.WPFMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFMIXM/charoite_global-ota_full-OS3.0.303.0.WPFMIXM-user-16.0-c91c2ec6e3.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/charoite/version/OS3.0.303.0.WPFMIXM/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI Note 15 Pro 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.70 GB
+        <br/>Date: 2026-07-23
+        <br/>Version: OS3.0.303.0.WPFMIXM
+        <br/>MD5: c91c2ec6e381b7a31e726e269e775f3e
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFMIXM/charoite_global-ota_full-OS3.0.303.0.WPFMIXM-user-16.0-c91c2ec6e3.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/charoite/version/OS3.0.303.0.WPFMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPFMIXM/charoite_global-ota_full-OS3.0.303.0.WPFMIXM-user-16.0-c91c2ec6e3.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 17T OS3.0.303.0.WPTIDXM</title>
@@ -1309,6 +2170,27 @@
         <br/><a href="https://ximitime.com/hyperos/tornado/version/OS3.0.305.0.WPOINXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPOINXM/tornado_in_global-ota_full-OS3.0.305.0.WPOINXM-user-16.0-4a6bc39ab1.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 8 OS3.0.303.0.WPZMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZMIXM/yupei_global-ota_full-OS3.0.303.0.WPZMIXM-user-16.0-ca1158cb2e.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZMIXM/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 8
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.60 GB
+        <br/>Date: 2026-07-14
+        <br/>Version: OS3.0.303.0.WPZMIXM
+        <br/>MD5: ca1158cb2ed2a65e3b862a1c5b66a5a9
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZMIXM/yupei_global-ota_full-OS3.0.303.0.WPZMIXM-user-16.0-ca1158cb2e.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/yupei/version/OS3.0.303.0.WPZMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WPZMIXM/yupei_global-ota_full-OS3.0.303.0.WPZMIXM-user-16.0-ca1158cb2e.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO X8 Pro Max / REDMI Turbo 5 Max OS3.0.305.0.WPLCNXM</title>
@@ -1731,6 +2613,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPQIDXM/kunzite_id_global-ota_full-OS3.0.301.0.WPQIDXM-user-16.0-a6a9fd84af.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi 17 OS3.0.302.0.WPCTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPCTRXM/pudding_tr_global-ota_full-OS3.0.302.0.WPCTRXM-user-16.0-c5fbb851b8.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/pudding/version/OS3.0.302.0.WPCTRXM/</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 17
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 7.40 GB
+        <br/>Date: 2026-05-28
+        <br/>Version: OS3.0.302.0.WPCTRXM
+        <br/>MD5: c5fbb851b817633e22208ab636b7f6ec
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPCTRXM/pudding_tr_global-ota_full-OS3.0.302.0.WPCTRXM-user-16.0-c5fbb851b8.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/pudding/version/OS3.0.302.0.WPCTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WPCTRXM/pudding_tr_global-ota_full-OS3.0.302.0.WPCTRXM-user-16.0-c5fbb851b8.zip" type="application/zip" />
+    </item>
+    <item>
       <title>REDMI 17C 4G / POCO C85 5G / REDMI 15C 5G OS3.0.301.0.WPOTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPOTRXM/tornado_tr_global-ota_full-OS3.0.301.0.WPOTRXM-user-16.0-b0c19b2592.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/tornado/version/OS3.0.301.0.WPOTRXM/</guid>
@@ -2086,6 +2989,27 @@
         <br/><a href="https://ximitime.com/hyperos/kunzite/version/OS2.0.205.0.VPQEUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VPQEUXM/kunzite_eea_global-ota_full-OS2.0.205.0.VPQEUXM-user-15.0-1206b3996c.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI K90 / POCO F8 Pro OS3.0.4.0.WPKTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.WPKTWXM/annibale_tw_global-ota_full-OS3.0.4.0.WPKTWXM-user-16.0-5ea3dbdb66.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS3.0.4.0.WPKTWXM/</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI K90 / POCO F8 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 16.0
+        <br/>Size: 7.10 GB
+        <br/>Date: 2026-01-13
+        <br/>Version: OS3.0.4.0.WPKTWXM
+        <br/>MD5: 5ea3dbdb66739fa34b705e03e02aea30
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.WPKTWXM/annibale_tw_global-ota_full-OS3.0.4.0.WPKTWXM-user-16.0-5ea3dbdb66.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/annibale/version/OS3.0.4.0.WPKTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.WPKTWXM/annibale_tw_global-ota_full-OS3.0.4.0.WPKTWXM-user-16.0-5ea3dbdb66.zip" type="application/zip" />
     </item>
     <item>
       <title>REDMI 17C 4G / POCO C85 5G / REDMI 15C 5G OS2.0.206.0.VPOMIXM</title>
