@@ -7,7 +7,49 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for All Brands firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:59:29 GMT</lastBuildDate>
+    <item>
+      <title>REDMI 17 4G / POCO C95 Pro OS3.0.304.0.WDTIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WDTIDXM/leedsa_id_global-ota_full-OS3.0.304.0.WDTIDXM-user-16.0-c7e540afc3.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/leedsa/version/OS3.0.304.0.WDTIDXM/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI 17 4G / POCO C95 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.70 GB
+        <br/>Date: 2026-09-06
+        <br/>Version: OS3.0.304.0.WDTIDXM
+        <br/>MD5: c7e540afc3e04169745d28d2ecb8ac43
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WDTIDXM/leedsa_id_global-ota_full-OS3.0.304.0.WDTIDXM-user-16.0-c7e540afc3.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/leedsa/version/OS3.0.304.0.WDTIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WDTIDXM/leedsa_id_global-ota_full-OS3.0.304.0.WDTIDXM-user-16.0-c7e540afc3.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI 17 4G / POCO C95 Pro OS3.0.307.0.WDTEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WDTEUXM/leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/leedsa/version/OS3.0.307.0.WDTEUXM/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI 17 4G / POCO C95 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.80 GB
+        <br/>Date: 2026-09-05
+        <br/>Version: OS3.0.307.0.WDTEUXM
+        <br/>MD5: 656ef66603c929cc86ce8fae80914712
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WDTEUXM/leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/leedsa/version/OS3.0.307.0.WDTEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WDTEUXM/leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip" type="application/zip" />
+    </item>
     <item>
       <title>POCO F9 Ultra / REDMI K100 Pro Max OS3.0.301.0.WGNTWXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip</link>
@@ -1897,6 +1939,27 @@
         <br/><a href="https://ximitime.com/hyperos/ruby/version/OS2.0.16.0.UMOEUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.16.0.UMOEUXM/ruby_eea_global-ota_full-OS2.0.16.0.UMOEUXM-user-14.0-bc0e427e34.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi MIX FOLD 2 OS3.0.9.0.VLRCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.VLRCNXM/zizhan-ota_full-OS3.0.9.0.VLRCNXM-user-15.0-30ba6b19a5.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zizhan/version/OS3.0.9.0.VLRCNXM/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi MIX FOLD 2
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 15.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-08-28
+        <br/>Version: OS3.0.9.0.VLRCNXM
+        <br/>MD5: 30ba6b19a500099b85d1c88a3022c7d3
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.VLRCNXM/zizhan-ota_full-OS3.0.9.0.VLRCNXM-user-15.0-30ba6b19a5.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/zizhan/version/OS3.0.9.0.VLRCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.VLRCNXM/zizhan-ota_full-OS3.0.9.0.VLRCNXM-user-15.0-30ba6b19a5.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO X8 / REDMI Note 17 Pro 5G OS3.0.303.0.WDQMIXM</title>
@@ -12420,6 +12483,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VLFCNXM/diting-ota_full-OS3.0.3.0.VLFCNXM-user-15.0-04006cfe4c.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi 12S Pro OS3.0.4.0.VLECNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.VLECNXM/unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/unicorn/version/OS3.0.4.0.VLECNXM/</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 12S Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 15.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-06-29
+        <br/>Version: OS3.0.4.0.VLECNXM
+        <br/>MD5: 9be4b807591b30510d6c577baa06b5a5
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.VLECNXM/unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/unicorn/version/OS3.0.4.0.VLECNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.4.0.VLECNXM/unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi 17T Pro OS3.0.304.0.WPSTWXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WPSTWXM/warhol_tw_global-ota_full-OS3.0.304.0.WPSTWXM-user-16.0-b92a2c8256.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/warhol/version/OS3.0.304.0.WPSTWXM/</guid>
@@ -12714,6 +12798,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WNICNXM/ruyi-ota_full-OS3.0.305.0.WNICNXM-user-16.0-60a942c146.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO F4 / Redmi K40S OS1.0.8.0.ULMTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMTRXM/miui_MUNCHTRGlobal_OS1.0.8.0.ULMTRXM_cf217fd1cf_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.8.0.ULMTRXM/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-06-18
+        <br/>Version: OS1.0.8.0.ULMTRXM
+        <br/>MD5: cf217fd1cf6612ed4e6e6ff459bff1ca
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMTRXM/miui_MUNCHTRGlobal_OS1.0.8.0.ULMTRXM_cf217fd1cf_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.8.0.ULMTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMTRXM/miui_MUNCHTRGlobal_OS1.0.8.0.ULMTRXM_cf217fd1cf_14.0.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO F7 / REDMI Turbo 4 Pro OS3.0.301.0.WOLINXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WOLINXM/onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/onyx/version/OS3.0.301.0.WOLINXM/</guid>
@@ -12796,6 +12901,90 @@
         <br/><a href="https://ximitime.com/hyperos/rothko/version/OS3.0.301.0.WNNTWXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WNNTWXM/rothko_tw_global-ota_full-OS3.0.301.0.WNNTWXM-user-16.0-d613a248bb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 / Redmi K40S OS1.0.9.0.ULMEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMEUXM/miui_MUNCHEEAGlobal_OS1.0.9.0.ULMEUXM_a2bff5c576_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMEUXM/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-06-15
+        <br/>Version: OS1.0.9.0.ULMEUXM
+        <br/>MD5: a2bff5c57699bbc68c02d734880d00b0
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMEUXM/miui_MUNCHEEAGlobal_OS1.0.9.0.ULMEUXM_a2bff5c576_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMEUXM/miui_MUNCHEEAGlobal_OS1.0.9.0.ULMEUXM_a2bff5c576_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 / Redmi K40S OS1.0.9.0.ULMTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMTWXM/miui_MUNCHTWGlobal_OS1.0.9.0.ULMTWXM_55e8d3976e_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMTWXM/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.20 GB
+        <br/>Date: 2026-06-15
+        <br/>Version: OS1.0.9.0.ULMTWXM
+        <br/>MD5: 55e8d3976e346758213b4984a521ec83
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMTWXM/miui_MUNCHTWGlobal_OS1.0.9.0.ULMTWXM_55e8d3976e_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMTWXM/miui_MUNCHTWGlobal_OS1.0.9.0.ULMTWXM_55e8d3976e_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 / Redmi K40S OS1.0.8.0.ULMRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMRUXM/miui_MUNCHRUGlobal_OS1.0.8.0.ULMRUXM_976978f863_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.8.0.ULMRUXM/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-06-15
+        <br/>Version: OS1.0.8.0.ULMRUXM
+        <br/>MD5: 976978f86300f75b601e49eded668255
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMRUXM/miui_MUNCHRUGlobal_OS1.0.8.0.ULMRUXM_976978f863_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.8.0.ULMRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULMRUXM/miui_MUNCHRUGlobal_OS1.0.8.0.ULMRUXM_976978f863_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 / Redmi K40S OS1.0.9.0.ULMIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMIDXM/miui_MUNCHIDGlobal_OS1.0.9.0.ULMIDXM_c4cead1837_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMIDXM/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.30 GB
+        <br/>Date: 2026-06-15
+        <br/>Version: OS1.0.9.0.ULMIDXM
+        <br/>MD5: c4cead18374c16f18567b7c99dfdf806
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMIDXM/miui_MUNCHIDGlobal_OS1.0.9.0.ULMIDXM_c4cead1837_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.9.0.ULMIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULMIDXM/miui_MUNCHIDGlobal_OS1.0.9.0.ULMIDXM_c4cead1837_14.0.zip" type="application/zip" />
     </item>
     <item>
       <title>Redmi K60 / POCO F5 Pro OS3.0.8.0.VMNCNXM</title>
@@ -13111,6 +13300,27 @@
         <br/><a href="https://ximitime.com/hyperos/liuqin/version/OS3.0.7.0.VMYCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.VMYCNXM/liuqin-ota_full-OS3.0.7.0.VMYCNXM-user-15.0-7f569a5149.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 12S Ultra OS3.0.6.0.VLACNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.VLACNXM/thor-ota_full-OS3.0.6.0.VLACNXM-user-15.0-3d1fc60ad4.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/thor/version/OS3.0.6.0.VLACNXM/</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 12S Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 15.0
+        <br/>Size: 6.10 GB
+        <br/>Date: 2026-05-29
+        <br/>Version: OS3.0.6.0.VLACNXM
+        <br/>MD5: 3d1fc60ad4c31c1d5f2f1bd28fdd70f4
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.VLACNXM/thor-ota_full-OS3.0.6.0.VLACNXM-user-15.0-3d1fc60ad4.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/thor/version/OS3.0.6.0.VLACNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.VLACNXM/thor-ota_full-OS3.0.6.0.VLACNXM-user-15.0-3d1fc60ad4.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 17 OS3.0.302.0.WPCTRXM</title>
@@ -13659,6 +13869,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WNLTWXM/duchamp_tw_global-ota_full-OS3.0.3.0.WNLTWXM-user-16.0-448970bc64.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO F4 / Redmi K40S OS1.0.12.0.ULMMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.ULMMIXM/miui_MUNCHGlobal_OS1.0.12.0.ULMMIXM_6af849fdcc_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.12.0.ULMMIXM/</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-05-06
+        <br/>Version: OS1.0.12.0.ULMMIXM
+        <br/>MD5: 6af849fdcc3ce5ba2e6cdab6bf2f21c0
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.ULMMIXM/miui_MUNCHGlobal_OS1.0.12.0.ULMMIXM_6af849fdcc_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.12.0.ULMMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.ULMMIXM/miui_MUNCHGlobal_OS1.0.12.0.ULMMIXM_6af849fdcc_14.0.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Redmi 13 5G / POCO M6 Plus 5G / Redmi Note 13R OS3.0.302.0.WNUCNXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNUCNXM/breeze-ota_full-OS3.0.302.0.WNUCNXM-user-16.0-72b6826124.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/breeze/version/OS3.0.302.0.WNUCNXM/</guid>
@@ -14058,6 +14289,48 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.2.0.VMNTRXM/mondrian_tr_global-ota_full-OS3.0.2.0.VMNTRXM-user-15.0-69ea54e5aa.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO F4 / Redmi K40S OS1.0.15.0.ULMCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.15.0.ULMCNXM/miui_MUNCH_OS1.0.15.0.ULMCNXM_945b975314_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.15.0.ULMCNXM/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2026-03-27
+        <br/>Version: OS1.0.15.0.ULMCNXM
+        <br/>MD5: 945b97531490db7e212a0817bff32422
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.15.0.ULMCNXM/miui_MUNCH_OS1.0.15.0.ULMCNXM_945b975314_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.15.0.ULMCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.15.0.ULMCNXM/miui_MUNCH_OS1.0.15.0.ULMCNXM_945b975314_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 12S OS3.0.3.0.VLTCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VLTCNXM/mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/mayfly/version/OS3.0.3.0.VLTCNXM/</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 12S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 15.0
+        <br/>Size: 5.90 GB
+        <br/>Date: 2026-03-26
+        <br/>Version: OS3.0.3.0.VLTCNXM
+        <br/>MD5: 16f6dcd3383d20ccae404262cdd14340
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VLTCNXM/mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/mayfly/version/OS3.0.3.0.VLTCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.VLTCNXM/mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Redmi K60 / POCO F5 Pro OS3.0.5.0.VMNMIXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.VMNMIXM/mondrian_global-ota_full-OS3.0.5.0.VMNMIXM-user-15.0-15a5ad376e.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/mondrian/version/OS3.0.5.0.VMNMIXM/</guid>
@@ -14415,6 +14688,111 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VHZTWXM/sea_tw_global-ota_full-OS2.0.209.0.VHZTWXM-user-15.0-7f84eeff9d.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.3.0.ULJMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJMIXM/ingres_global-ota_full-OS2.0.3.0.ULJMIXM-user-14.0-b7c6438dbb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJMIXM/</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2026-01-27
+        <br/>Version: OS2.0.3.0.ULJMIXM
+        <br/>MD5: b7c6438dbb55d11200c99d940126985a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJMIXM/ingres_global-ota_full-OS2.0.3.0.ULJMIXM-user-14.0-b7c6438dbb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJMIXM/ingres_global-ota_full-OS2.0.3.0.ULJMIXM-user-14.0-b7c6438dbb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.3.0.ULJTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTWXM/ingres_tw_global-ota_full-OS2.0.3.0.ULJTWXM-user-14.0-a1345178b8.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJTWXM/</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 4.80 GB
+        <br/>Date: 2026-01-27
+        <br/>Version: OS2.0.3.0.ULJTWXM
+        <br/>MD5: a1345178b8fe1979125a410829271a53
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTWXM/ingres_tw_global-ota_full-OS2.0.3.0.ULJTWXM-user-14.0-a1345178b8.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTWXM/ingres_tw_global-ota_full-OS2.0.3.0.ULJTWXM-user-14.0-a1345178b8.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.3.0.ULJEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJEUXM/ingres_eea_global-ota_full-OS2.0.3.0.ULJEUXM-user-14.0-9eedac1adf.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJEUXM/</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2026-01-27
+        <br/>Version: OS2.0.3.0.ULJEUXM
+        <br/>MD5: 9eedac1adfca07fe02d787ae9621fc4b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJEUXM/ingres_eea_global-ota_full-OS2.0.3.0.ULJEUXM-user-14.0-9eedac1adf.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJEUXM/ingres_eea_global-ota_full-OS2.0.3.0.ULJEUXM-user-14.0-9eedac1adf.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.3.0.ULJTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTRXM/ingres_tr_global-ota_full-OS2.0.3.0.ULJTRXM-user-14.0-64836c6f71.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJTRXM/</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2026-01-27
+        <br/>Version: OS2.0.3.0.ULJTRXM
+        <br/>MD5: 64836c6f719fb89eef4c13c93e952f99
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTRXM/ingres_tr_global-ota_full-OS2.0.3.0.ULJTRXM-user-14.0-64836c6f71.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJTRXM/ingres_tr_global-ota_full-OS2.0.3.0.ULJTRXM-user-14.0-64836c6f71.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.3.0.ULJIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJIDXM/ingres_id_global-ota_full-OS2.0.3.0.ULJIDXM-user-14.0-4c53c72437.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJIDXM/</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 4.90 GB
+        <br/>Date: 2026-01-27
+        <br/>Version: OS2.0.3.0.ULJIDXM
+        <br/>MD5: 4c53c72437f72c6d88ae5016b82cbfc1
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJIDXM/ingres_id_global-ota_full-OS2.0.3.0.ULJIDXM-user-14.0-4c53c72437.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.3.0.ULJIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULJIDXM/ingres_id_global-ota_full-OS2.0.3.0.ULJIDXM-user-14.0-4c53c72437.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition OS2.0.17.0.UMSMIXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/redwood/version/OS2.0.17.0.UMSMIXM/</guid>
@@ -14709,6 +15087,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.203.0.VGPTRXM/gale_tr_global-ota_full-OS2.0.203.0.VGPTRXM-user-15.0-9a573474d8.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.8.0.ULJCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.8.0.ULJCNXM/ingres-ota_full-OS2.0.8.0.ULJCNXM-user-14.0-e181db717d.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.8.0.ULJCNXM/</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.70 GB
+        <br/>Date: 2025-12-17
+        <br/>Version: OS2.0.8.0.ULJCNXM
+        <br/>MD5: e181db717dc1bc3f437e46d7e701a7c3
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.8.0.ULJCNXM/ingres-ota_full-OS2.0.8.0.ULJCNXM-user-14.0-e181db717d.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.8.0.ULJCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.8.0.ULJCNXM/ingres-ota_full-OS2.0.8.0.ULJCNXM-user-14.0-e181db717d.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO X5 5G OS1.0.21.0.UMPTWXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.21.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.21.0.UMPTWXM_39a6df5be5_14.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/moonstone/version/OS1.0.21.0.UMPTWXM/</guid>
@@ -14875,6 +15274,27 @@
         <br/><a href="https://ximitime.com/hyperos/sunstone/version/OS2.0.5.0.UMQMIXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.5.0.UMQMIXM/sunstone_global-ota_full-OS2.0.5.0.UMQMIXM-user-14.0-3e521d5bf6.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.12.0.ULOCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.12.0.ULOCNXM/xaga-ota_full-OS2.0.12.0.ULOCNXM-user-14.0-5c4e2efff9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.12.0.ULOCNXM/</guid>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.80 GB
+        <br/>Date: 2025-10-21
+        <br/>Version: OS2.0.12.0.ULOCNXM
+        <br/>MD5: 5c4e2efff9f69646e364a34c611bf2bd
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.12.0.ULOCNXM/xaga-ota_full-OS2.0.12.0.ULOCNXM-user-14.0-5c4e2efff9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.12.0.ULOCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.12.0.ULOCNXM/xaga-ota_full-OS2.0.12.0.ULOCNXM-user-14.0-5c4e2efff9.zip" type="application/zip" />
     </item>
     <item>
       <title>Redmi 13C / POCO C65 OS2.0.201.0.VGPTWXM</title>
@@ -15150,6 +15570,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.ULYIDXM/miui_YUNLUOIDGlobal_OS1.0.8.0.ULYIDXM_920ef51c8b_14.0.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi Pad 5 Pro 12.4 OS2.0.10.0.ULZCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/dagu/version/OS2.0.10.0.ULZCNXM/</guid>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 5 Pro 12.4
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 4.30 GB
+        <br/>Date: 2025-07-11
+        <br/>Version: OS2.0.10.0.ULZCNXM
+        <br/>MD5: 041e9e8347d13fadf5e2bf06ea269f3c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/dagu/version/OS2.0.10.0.ULZCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.ULZCNXM/dagu-ota_full-OS2.0.10.0.ULZCNXM-user-14.0-041e9e8347.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO C55 / Redmi 12C OS1.0.9.0.UCVTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UCVTRXM/miui_EARTHTRGlobal_OS1.0.9.0.UCVTRXM_068b58ce77_14.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/earth/version/OS1.0.9.0.UCVTRXM/</guid>
@@ -15192,6 +15633,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UCVTWXM/miui_EARTHTWGlobal_OS1.0.9.0.UCVTWXM_229f47204a_14.0.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi 12 Pro Dimensity Edition OS2.0.6.0.ULGCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULGCNXM/daumier-ota_full-OS2.0.6.0.ULGCNXM-user-14.0-507b0b4906.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/daumier/version/OS2.0.6.0.ULGCNXM/</guid>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 12 Pro Dimensity Edition
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.80 GB
+        <br/>Date: 2025-07-07
+        <br/>Version: OS2.0.6.0.ULGCNXM
+        <br/>MD5: 507b0b4906bf3966a5dd3044a1e2268e
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULGCNXM/daumier-ota_full-OS2.0.6.0.ULGCNXM-user-14.0-507b0b4906.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/daumier/version/OS2.0.6.0.ULGCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULGCNXM/daumier-ota_full-OS2.0.6.0.ULGCNXM-user-14.0-507b0b4906.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi 15 OS2.0.201.0.VOCEUXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VOCEUXM/dada_eea_global-ota_full-OS2.0.201.0.VOCEUXM-user-15.0-9229e6cb79.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/dada/version/OS2.0.201.0.VOCEUXM/</guid>
@@ -15211,6 +15673,48 @@
         <br/><a href="https://ximitime.com/hyperos/dada/version/OS2.0.201.0.VOCEUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VOCEUXM/dada_eea_global-ota_full-OS2.0.201.0.VOCEUXM-user-15.0-9229e6cb79.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.3.0.ULOMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOMIXM/xaga_global-ota_full-OS2.0.3.0.ULOMIXM-user-14.0-70c3a91ba3.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOMIXM/</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.20 GB
+        <br/>Date: 2025-06-26
+        <br/>Version: OS2.0.3.0.ULOMIXM
+        <br/>MD5: 70c3a91ba3b1c759e2e810d69e1c904d
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOMIXM/xaga_global-ota_full-OS2.0.3.0.ULOMIXM-user-14.0-70c3a91ba3.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOMIXM/xaga_global-ota_full-OS2.0.3.0.ULOMIXM-user-14.0-70c3a91ba3.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.3.0.ULOINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOINXM/xaga_in_global-ota_full-OS2.0.3.0.ULOINXM-user-14.0-7a33ff9654.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOINXM/</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.10 GB
+        <br/>Date: 2025-06-26
+        <br/>Version: OS2.0.3.0.ULOINXM
+        <br/>MD5: 7a33ff965407f381a7b99fe18830ec7b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOINXM/xaga_in_global-ota_full-OS2.0.3.0.ULOINXM-user-14.0-7a33ff9654.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOINXM/xaga_in_global-ota_full-OS2.0.3.0.ULOINXM-user-14.0-7a33ff9654.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 14T Pro / Redmi K70 Ultra OS2.0.202.0.VNNMIXM</title>
@@ -15276,6 +15780,111 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.114.0.VOCMIXM/dada_global-ota_full-OS2.0.114.0.VOCMIXM-user-15.0-bb85271e8f.zip" type="application/zip" />
     </item>
     <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.2.0.ULOTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTWXM/xaga_tw_global-ota_full-OS2.0.2.0.ULOTWXM-user-14.0-9685df8b6f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULOTWXM/</guid>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2025-06-09
+        <br/>Version: OS2.0.2.0.ULOTWXM
+        <br/>MD5: 9685df8b6ff4c4f357a191f8b8fd88fb
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTWXM/xaga_tw_global-ota_full-OS2.0.2.0.ULOTWXM-user-14.0-9685df8b6f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULOTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTWXM/xaga_tw_global-ota_full-OS2.0.2.0.ULOTWXM-user-14.0-9685df8b6f.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.2.0.ULORUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULORUXM/xaga_ru_global-ota_full-OS2.0.2.0.ULORUXM-user-14.0-44f2a795bb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULORUXM/</guid>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.10 GB
+        <br/>Date: 2025-06-09
+        <br/>Version: OS2.0.2.0.ULORUXM
+        <br/>MD5: 44f2a795bb9fc4cc4c02992dcd49cdbd
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULORUXM/xaga_ru_global-ota_full-OS2.0.2.0.ULORUXM-user-14.0-44f2a795bb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULORUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULORUXM/xaga_ru_global-ota_full-OS2.0.2.0.ULORUXM-user-14.0-44f2a795bb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.2.0.ULOTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTRXM/xaga_tr_global-ota_full-OS2.0.2.0.ULOTRXM-user-14.0-3d73ad72fa.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULOTRXM/</guid>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.10 GB
+        <br/>Date: 2025-06-09
+        <br/>Version: OS2.0.2.0.ULOTRXM
+        <br/>MD5: 3d73ad72fa297815ab956d530e5fdb75
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTRXM/xaga_tr_global-ota_full-OS2.0.2.0.ULOTRXM-user-14.0-3d73ad72fa.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.2.0.ULOTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULOTRXM/xaga_tr_global-ota_full-OS2.0.2.0.ULOTRXM-user-14.0-3d73ad72fa.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 Pro / Redmi K50 Pro OS2.0.6.0.ULKCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULKCNXM/matisse-ota_full-OS2.0.6.0.ULKCNXM-user-14.0-4853637358.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/matisse/version/OS2.0.6.0.ULKCNXM/</guid>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 Pro / Redmi K50 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.80 GB
+        <br/>Date: 2025-06-03
+        <br/>Version: OS2.0.6.0.ULKCNXM
+        <br/>MD5: 4853637358252256be176ac43cefef8b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULKCNXM/matisse-ota_full-OS2.0.6.0.ULKCNXM-user-14.0-4853637358.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/matisse/version/OS2.0.6.0.ULKCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.ULKCNXM/matisse-ota_full-OS2.0.6.0.ULKCNXM-user-14.0-4853637358.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT OS2.0.3.0.ULOEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOEUXM/xaga_eea_global-ota_full-OS2.0.3.0.ULOEUXM-user-14.0-dff00e7f0f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOEUXM/</guid>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi K50i / Redmi K50i Pro / POCO X4 GT Pro / Redmi Note 11T Pro / Redmi Note 11T Pro+ / POCO X4 GT
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 5.20 GB
+        <br/>Date: 2025-05-23
+        <br/>Version: OS2.0.3.0.ULOEUXM
+        <br/>MD5: dff00e7f0fc943a3d97423d36f007164
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOEUXM/xaga_eea_global-ota_full-OS2.0.3.0.ULOEUXM-user-14.0-dff00e7f0f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xaga/version/OS2.0.3.0.ULOEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.ULOEUXM/xaga_eea_global-ota_full-OS2.0.3.0.ULOEUXM-user-14.0-dff00e7f0f.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi Redmi Pad OS1.0.9.0.ULYMIXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.ULYMIXM/miui_YUNLUOGlobal_OS1.0.9.0.ULYMIXM_f523fe7fc3_14.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/yunluo/version/OS1.0.9.0.ULYMIXM/</guid>
@@ -15337,6 +15946,48 @@
         <br/><a href="https://ximitime.com/hyperos/yunluo/version/OS1.0.7.0.ULYRUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.ULYRUXM/miui_YUNLUORUGlobal_OS1.0.7.0.ULYRUXM_7e07c5a86f_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 GT / Redmi K50 Gaming OS2.0.2.0.ULJRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULJRUXM/ingres_ru_global-ota_full-OS2.0.2.0.ULJRUXM-user-14.0-804bfa04b1.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/ingres/version/OS2.0.2.0.ULJRUXM/</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 GT / Redmi K50 Gaming
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 2.0
+        <br/>Android: 14.0
+        <br/>Size: 4.90 GB
+        <br/>Date: 2025-05-12
+        <br/>Version: OS2.0.2.0.ULJRUXM
+        <br/>MD5: 804bfa04b181df45f065210f213b4841
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULJRUXM/ingres_ru_global-ota_full-OS2.0.2.0.ULJRUXM-user-14.0-804bfa04b1.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/ingres/version/OS2.0.2.0.ULJRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULJRUXM/ingres_ru_global-ota_full-OS2.0.2.0.ULJRUXM-user-14.0-804bfa04b1.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F4 / Redmi K40S OS1.0.7.0.ULMINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.ULMINXM/miui_MUNCHINGlobal_OS1.0.7.0.ULMINXM_324fb78647_14.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/munch/version/OS1.0.7.0.ULMINXM/</guid>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F4 / Redmi K40S
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 1.0
+        <br/>Android: 14.0
+        <br/>Size: 4.30 GB
+        <br/>Date: 2025-04-25
+        <br/>Version: OS1.0.7.0.ULMINXM
+        <br/>MD5: 324fb78647cc0a606d915e283542374b
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.ULMINXM/miui_MUNCHINGlobal_OS1.0.7.0.ULMINXM_324fb78647_14.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/munch/version/OS1.0.7.0.ULMINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.ULMINXM/miui_MUNCHINGlobal_OS1.0.7.0.ULMINXM_324fb78647_14.0.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi Redmi Pad OS1.0.8.0.ULYTRXM</title>
@@ -15864,6 +16515,27 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.11.0.TKLINXM/miui_ROSEMARYINGlobal_V14.0.11.0.TKLINXM_ea368cd66f_13.0.zip" type="application/zip" />
     </item>
     <item>
+      <title>Redmi 10 Power (India) / Redmi 10C / Redmi 10 India | Download MIUI V14.0.7.0.TGEINXM V14.0.7.0.TGEINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TGEINXM/miui_FOGINGlobal_V14.0.7.0.TGEINXM_c668fab80f_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/fog/version/V14.0.7.0.TGEINXM/</guid>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Power (India) / Redmi 10C / Redmi 10 India | Download MIUI V14.0.7.0.TGEINXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.30 GB
+        <br/>Date: 2024-09-09
+        <br/>Version: V14.0.7.0.TGEINXM
+        <br/>MD5: c668fab80f5b0b69ec14b74e16965835
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TGEINXM/miui_FOGINGlobal_V14.0.7.0.TGEINXM_c668fab80f_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/fog/version/V14.0.7.0.TGEINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TGEINXM/miui_FOGINGlobal_V14.0.7.0.TGEINXM_c668fab80f_13.0.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO M5 / Redmi 11 Prime OS1.0.5.0.ULUEUXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.ULUEUXM/miui_ROCKEEAGlobal_OS1.0.5.0.ULUEUXM_a356170af3_14.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/rock/version/OS1.0.5.0.ULUEUXM/</guid>
@@ -15883,6 +16555,48 @@
         <br/><a href="https://ximitime.com/hyperos/rock/version/OS1.0.5.0.ULUEUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.ULUEUXM/miui_ROCKEEAGlobal_OS1.0.5.0.ULUEUXM_a356170af3_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.3.0.TKLTWXM V14.0.3.0.TKLTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKLTWXM/miui_ROSEMARYTWGlobal_V14.0.3.0.TKLTWXM_f5bacb9f77_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/rosemary/version/V14.0.3.0.TKLTWXM/</guid>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.3.0.TKLTWXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.40 GB
+        <br/>Date: 2024-08-16
+        <br/>Version: V14.0.3.0.TKLTWXM
+        <br/>MD5: f5bacb9f77c6a9dbde277481713d4968
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKLTWXM/miui_ROSEMARYTWGlobal_V14.0.3.0.TKLTWXM_f5bacb9f77_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/rosemary/version/V14.0.3.0.TKLTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKLTWXM/miui_ROSEMARYTWGlobal_V14.0.3.0.TKLTWXM_f5bacb9f77_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.6.0.TKLTRXM V14.0.6.0.TKLTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKLTRXM/miui_ROSEMARYTRGlobal_V14.0.6.0.TKLTRXM_753cb06540_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/rosemary/version/V14.0.6.0.TKLTRXM/</guid>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.6.0.TKLTRXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.50 GB
+        <br/>Date: 2024-08-09
+        <br/>Version: V14.0.6.0.TKLTRXM
+        <br/>MD5: 753cb06540c6c43fc0172cc32352e33f
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKLTRXM/miui_ROSEMARYTRGlobal_V14.0.6.0.TKLTRXM_753cb06540_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/rosemary/version/V14.0.6.0.TKLTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKLTRXM/miui_ROSEMARYTRGlobal_V14.0.6.0.TKLTRXM_753cb06540_13.0.zip" type="application/zip" />
     </item>
     <item>
       <title>Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.11.0.TKLEUXM V14.0.11.0.TKLEUXM</title>
@@ -15906,6 +16620,48 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.11.0.TKLEUXM/miui_ROSEMARYEEAGlobal_V14.0.11.0.TKLEUXM_47f532aa59_13.0.zip" type="application/zip" />
     </item>
     <item>
+      <title>Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.4.0.TKLRUXM V14.0.4.0.TKLRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKLRUXM/miui_ROSEMARYRUGlobal_V14.0.4.0.TKLRUXM_42b29728df_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/rosemary/version/V14.0.4.0.TKLRUXM/</guid>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.4.0.TKLRUXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.50 GB
+        <br/>Date: 2024-08-05
+        <br/>Version: V14.0.4.0.TKLRUXM
+        <br/>MD5: 42b29728df8f831ae9b1d203bc924802
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKLRUXM/miui_ROSEMARYRUGlobal_V14.0.4.0.TKLRUXM_42b29728df_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/rosemary/version/V14.0.4.0.TKLRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKLRUXM/miui_ROSEMARYRUGlobal_V14.0.4.0.TKLRUXM_42b29728df_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.5.0.TKUCNXM V14.0.5.0.TKUCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUCNXM/miui_SELENE_V14.0.5.0.TKUCNXM_12e46d144e_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.5.0.TKUCNXM/</guid>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.5.0.TKUCNXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.80 GB
+        <br/>Date: 2024-07-29
+        <br/>Version: V14.0.5.0.TKUCNXM
+        <br/>MD5: 12e46d144e83a0bf85cc4b25e8721845
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUCNXM/miui_SELENE_V14.0.5.0.TKUCNXM_12e46d144e_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.5.0.TKUCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUCNXM/miui_SELENE_V14.0.5.0.TKUCNXM_12e46d144e_13.0.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Redmi Note 11 SE India / Redmi Note 10S | Download MIUI V14.0.11.0.TKLMIXM V14.0.11.0.TKLMIXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.11.0.TKLMIXM/miui_ROSEMARYGlobal_V14.0.11.0.TKLMIXM_0af8ad3535_13.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/rosemary/version/V14.0.11.0.TKLMIXM/</guid>
@@ -15925,6 +16681,27 @@
         <br/><a href="https://ximitime.com/hyperos/rosemary/version/V14.0.11.0.TKLMIXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.11.0.TKLMIXM/miui_ROSEMARYGlobal_V14.0.11.0.TKLMIXM_0af8ad3535_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.9.0.TKUEUXM V14.0.9.0.TKUEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKUEUXM/miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.9.0.TKUEUXM/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.9.0.TKUEUXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.30 GB
+        <br/>Date: 2024-07-23
+        <br/>Version: V14.0.9.0.TKUEUXM
+        <br/>MD5: 2af6d64b91b7a4689c77cfd90cfcaafa
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKUEUXM/miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.9.0.TKUEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKUEUXM/miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO M5 / Redmi 11 Prime OS1.0.2.0.ULUTRXM</title>
@@ -16011,6 +16788,69 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.ULUTWXM/miui_ROCKTWGlobal_OS1.0.4.0.ULUTWXM_118b3cff38_14.0.zip" type="application/zip" />
     </item>
     <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.7.0.TKUMIXM V14.0.7.0.TKUMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TKUMIXM/miui_SELENEGlobal_V14.0.7.0.TKUMIXM_76066530fb_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.7.0.TKUMIXM/</guid>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.7.0.TKUMIXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.40 GB
+        <br/>Date: 2024-05-13
+        <br/>Version: V14.0.7.0.TKUMIXM
+        <br/>MD5: 76066530fb3c0db0773a4b5a5b4135f1
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TKUMIXM/miui_SELENEGlobal_V14.0.7.0.TKUMIXM_76066530fb_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.7.0.TKUMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.7.0.TKUMIXM/miui_SELENEGlobal_V14.0.7.0.TKUMIXM_76066530fb_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.5.0.TKUIDXM V14.0.5.0.TKUIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUIDXM/miui_SELENEIDGlobal_V14.0.5.0.TKUIDXM_5f06c3350e_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.5.0.TKUIDXM/</guid>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.5.0.TKUIDXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.30 GB
+        <br/>Date: 2024-05-13
+        <br/>Version: V14.0.5.0.TKUIDXM
+        <br/>MD5: 5f06c3350e712dd8112f47bfabdf3a7d
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUIDXM/miui_SELENEIDGlobal_V14.0.5.0.TKUIDXM_5f06c3350e_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.5.0.TKUIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.5.0.TKUIDXM/miui_SELENEIDGlobal_V14.0.5.0.TKUIDXM_5f06c3350e_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.8.0.TKUINXM V14.0.8.0.TKUINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.8.0.TKUINXM/miui_SELENEINGlobal_V14.0.8.0.TKUINXM_463cea2998_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.8.0.TKUINXM/</guid>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.8.0.TKUINXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.30 GB
+        <br/>Date: 2024-05-13
+        <br/>Version: V14.0.8.0.TKUINXM
+        <br/>MD5: 463cea29982220255b61cdbf39ceae4c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.8.0.TKUINXM/miui_SELENEINGlobal_V14.0.8.0.TKUINXM_463cea2998_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.8.0.TKUINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.8.0.TKUINXM/miui_SELENEINGlobal_V14.0.8.0.TKUINXM_463cea2998_13.0.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Redmi 11 Prime 5G / POCO M4 5G / Redmi 10 5G / Redmi 10 Prime+ 5G / Redmi Note 11E OS1.0.1.0.ULSTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.ULSTRXM/miui_LIGHTTRGlobal_OS1.0.1.0.ULSTRXM_9e9ec40fed_14.0.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/light/version/OS1.0.1.0.ULSTRXM/</guid>
@@ -16051,6 +16891,111 @@
         <br/><a href="https://ximitime.com/hyperos/houji/version/OS1.0.1.0.UNCTRXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UNCTRXM/miui_HOUJITRGlobal_OS1.0.1.0.UNCTRXM_98f8e61a8f_14.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.2.0.TKUTWXM V14.0.2.0.TKUTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKUTWXM/miui_SELENETWGlobal_V14.0.2.0.TKUTWXM_1e49a4dbb9_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.2.0.TKUTWXM/</guid>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.2.0.TKUTWXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.10 GB
+        <br/>Date: 2023-12-28
+        <br/>Version: V14.0.2.0.TKUTWXM
+        <br/>MD5: 1e49a4dbb91b9973fd5de9cfe04d744a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKUTWXM/miui_SELENETWGlobal_V14.0.2.0.TKUTWXM_1e49a4dbb9_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.2.0.TKUTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKUTWXM/miui_SELENETWGlobal_V14.0.2.0.TKUTWXM_1e49a4dbb9_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.3.0.TKUTRXM V14.0.3.0.TKUTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKUTRXM/miui_SELENETRGlobal_V14.0.3.0.TKUTRXM_6721329ea2_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.3.0.TKUTRXM/</guid>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.3.0.TKUTRXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.20 GB
+        <br/>Date: 2023-12-21
+        <br/>Version: V14.0.3.0.TKUTRXM
+        <br/>MD5: 6721329ea2fb2400849fc5533669349c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKUTRXM/miui_SELENETRGlobal_V14.0.3.0.TKUTRXM_6721329ea2_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.3.0.TKUTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.3.0.TKUTRXM/miui_SELENETRGlobal_V14.0.3.0.TKUTRXM_6721329ea2_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 11 SE / Xiaomi Redmi Note 10T 5G / Xiaomi Poco M3 Pro 5G / Xiaomi Redmi Note 10 5G | Download MIUI V14.0.6.0.TKSINXM V14.0.6.0.TKSINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKSINXM/miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/camellia/version/V14.0.6.0.TKSINXM/</guid>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 11 SE / Xiaomi Redmi Note 10T 5G / Xiaomi Poco M3 Pro 5G / Xiaomi Redmi Note 10 5G | Download MIUI V14.0.6.0.TKSINXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.50 GB
+        <br/>Date: 2023-10-23
+        <br/>Version: V14.0.6.0.TKSINXM
+        <br/>MD5: 3afc727b1892c2002ac10a88388d0e3a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKSINXM/miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/camellia/version/V14.0.6.0.TKSINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.6.0.TKSINXM/miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.2.0.TKURUXM V14.0.2.0.TKURUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKURUXM/miui_SELENERUGlobal_V14.0.2.0.TKURUXM_e9652693d2_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/selene/version/V14.0.2.0.TKURUXM/</guid>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 10 Prime 2022 / Redmi 10 2022 / Xiaomi Redmi 10 / Xiaomi Redmi 10 Prime | Download MIUI V14.0.2.0.TKURUXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 3.20 GB
+        <br/>Date: 2023-10-16
+        <br/>Version: V14.0.2.0.TKURUXM
+        <br/>MD5: e9652693d209bf026db3c6687d541eef
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKURUXM/miui_SELENERUGlobal_V14.0.2.0.TKURUXM_e9652693d2_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/selene/version/V14.0.2.0.TKURUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKURUXM/miui_SELENERUGlobal_V14.0.2.0.TKURUXM_e9652693d2_13.0.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 11 SE / Xiaomi Redmi Note 10T 5G / Xiaomi Poco M3 Pro 5G / Xiaomi Redmi Note 10 5G | Download MIUI V14.0.2.0.TKSCNXM V14.0.2.0.TKSCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKSCNXM/miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/camellia/version/V14.0.2.0.TKSCNXM/</guid>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 11 SE / Xiaomi Redmi Note 10T 5G / Xiaomi Poco M3 Pro 5G / Xiaomi Redmi Note 10 5G | Download MIUI V14.0.2.0.TKSCNXM
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: MIUI 14
+        <br/>Android: 13.0
+        <br/>Size: 4.20 GB
+        <br/>Date: 2023-03-20
+        <br/>Version: V14.0.2.0.TKSCNXM
+        <br/>MD5: 3b9393dc6292dddd25f146e8b02bd7ec
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKSCNXM/miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/camellia/version/V14.0.2.0.TKSCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKSCNXM/miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 13 | Download MIUI V14.0.3.0.TMCTRXM V14.0.3.0.TMCTRXM</title>
