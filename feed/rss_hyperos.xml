@@ -7,7 +7,70 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Xiaomi HyperOS firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 08:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:58:19 GMT</lastBuildDate>
+    <item>
+      <title>Xiaomi 18 Pro Max OS4.0.11.0.XEOCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.11.0.XEOCNXM/madrid-ota_incremental-OS4.0.9.0.XEOCNXM-OS4.0.11.0.XEOCNXM-user-17.0-fbf1a87eaf.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/madrid/version/OS4.0.11.0.XEOCNXM/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 18 Pro Max
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 12.00 GB
+        <br/>Date: 2026-09-26
+        <br/>Version: OS4.0.11.0.XEOCNXM
+        <br/>MD5: f0e19e380be7d19767eeb8676ca8d861
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.11.0.XEOCNXM/madrid-ota_incremental-OS4.0.9.0.XEOCNXM-OS4.0.11.0.XEOCNXM-user-17.0-fbf1a87eaf.zip">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/madrid/version/OS4.0.11.0.XEOCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.11.0.XEOCNXM/madrid-ota_incremental-OS4.0.9.0.XEOCNXM-OS4.0.11.0.XEOCNXM-user-17.0-fbf1a87eaf.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 14 CIVI / Xiaomi Civi 4 Pro OS3.0.303.0.WNJINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.303.0.WNJINXM-user-16.0-ed93d79ed9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/chenfeng/version/OS3.0.303.0.WNJINXM/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 14 CIVI / Xiaomi Civi 4 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-09-26
+        <br/>Version: OS3.0.303.0.WNJINXM
+        <br/>MD5: ed93d79ed99bc467bc1c8e5cd8bfa752
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.303.0.WNJINXM-user-16.0-ed93d79ed9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/chenfeng/version/OS3.0.303.0.WNJINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.303.0.WNJINXM-user-16.0-ed93d79ed9.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI A7 OS3.0.307.0.WBUEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WBUEUXM/zephyr_eea_global-ota_full-OS3.0.307.0.WBUEUXM-user-16.0-7f5eb76ad9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zephyr/version/OS3.0.307.0.WBUEUXM/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI A7
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.00 GB
+        <br/>Date: 2026-09-26
+        <br/>Version: OS3.0.307.0.WBUEUXM
+        <br/>MD5: 7f5eb76ad985e1875b83aa407cdad58e
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WBUEUXM/zephyr_eea_global-ota_full-OS3.0.307.0.WBUEUXM-user-16.0-7f5eb76ad9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/zephyr/version/OS3.0.307.0.WBUEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WBUEUXM/zephyr_eea_global-ota_full-OS3.0.307.0.WBUEUXM-user-16.0-7f5eb76ad9.zip" type="application/zip" />
+    </item>
     <item>
       <title>POCO F9 Ultra / REDMI K100 Pro Max OS3.0.308.0.WGNJPXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WGNJPXM/songyuan_jp_global-ota_full-OS3.0.308.0.WGNJPXM-user-16.0-0038285aba.zip</link>
@@ -70,6 +133,69 @@
         <br/><a href="https://ximitime.com/hyperos/sheng/version/OS3.0.306.0.WNXCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WNXCNXM/sheng-ota_full-OS3.0.306.0.WNXCNXM-user-16.0-997f7fa308.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO C81 / REDMI A7 Pro OS3.0.5.0.WBVINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WBVINXM/arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/arctic/version/OS3.0.5.0.WBVINXM/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO C81 / REDMI A7 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.0
+        <br/>Android: 16.0
+        <br/>Size: 4.80 GB
+        <br/>Date: 2026-09-25
+        <br/>Version: OS3.0.5.0.WBVINXM
+        <br/>MD5: 25c4d3d78ecd36f2b439172542b14831
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WBVINXM/arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/arctic/version/OS3.0.5.0.WBVINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WBVINXM/arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi 12 OS2.0.210.0.VMXMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMXMIXM/fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/fire/version/OS2.0.210.0.VMXMIXM/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 12
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.30 GB
+        <br/>Date: 2026-09-25
+        <br/>Version: OS2.0.210.0.VMXMIXM
+        <br/>MD5: d93a26009794c644bf2e501a3041af4c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMXMIXM/fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/fire/version/OS2.0.210.0.VMXMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMXMIXM/fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>REDMI A7 OS3.0.306.0.WBUIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WBUIDXM/zephyr_id_global-ota_full-OS3.0.306.0.WBUIDXM-user-16.0-8e5568a8a6.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zephyr/version/OS3.0.306.0.WBUIDXM/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: REDMI A7
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.90 GB
+        <br/>Date: 2026-09-25
+        <br/>Version: OS3.0.306.0.WBUIDXM
+        <br/>MD5: 8e5568a8a6c651801dd0bae32e4aa101
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WBUIDXM/zephyr_id_global-ota_full-OS3.0.306.0.WBUIDXM-user-16.0-8e5568a8a6.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/zephyr/version/OS3.0.306.0.WBUIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WBUIDXM/zephyr_id_global-ota_full-OS3.0.306.0.WBUIDXM-user-16.0-8e5568a8a6.zip" type="application/zip" />
     </item>
     <item>
       <title>REDMI 17 / POCO M8x 5G / REDMI M100 OS3.0.304.0.WAVINXM</title>
