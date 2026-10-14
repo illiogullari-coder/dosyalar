@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Xiaomi HyperOS firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:25:43 GMT</lastBuildDate>
     <item>
       <title>Redmi Note 14 Pro+ OS3.0.303.0.WOPIDXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOPIDXM/amethyst_id_global-ota_full-OS3.0.303.0.WOPIDXM-user-16.0-2dee3c2950.zip</link>
@@ -196,6 +196,90 @@
         <br/><a href="https://ximitime.com/hyperos/aristotle/version/OS3.0.3.0.WMFIDXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WMFIDXM/aristotle_id_global-ota_full-OS3.0.3.0.WMFIDXM-user-16.0-80a6820eaf.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 Pro OS3.0.304.0.WMBTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBTWXM/nuwa_tw_global-ota_full-OS3.0.304.0.WMBTWXM-user-16.0-55fd417a11.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBTWXM/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.90 GB
+        <br/>Date: 2026-10-13
+        <br/>Version: OS3.0.304.0.WMBTWXM
+        <br/>MD5: 55fd417a1131a4f5436de1dfee90c9e7
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBTWXM/nuwa_tw_global-ota_full-OS3.0.304.0.WMBTWXM-user-16.0-55fd417a11.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBTWXM/nuwa_tw_global-ota_full-OS3.0.304.0.WMBTWXM-user-16.0-55fd417a11.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 Pro OS3.0.304.0.WMBRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBRUXM/nuwa_ru_global-ota_full-OS3.0.304.0.WMBRUXM-user-16.0-1e03ad8246.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBRUXM/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.10 GB
+        <br/>Date: 2026-10-13
+        <br/>Version: OS3.0.304.0.WMBRUXM
+        <br/>MD5: 1e03ad824695adff9dd0ec42ea199949
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBRUXM/nuwa_ru_global-ota_full-OS3.0.304.0.WMBRUXM-user-16.0-1e03ad8246.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBRUXM/nuwa_ru_global-ota_full-OS3.0.304.0.WMBRUXM-user-16.0-1e03ad8246.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 Pro OS3.0.303.0.WMBMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMBMIXM/nuwa_global-ota_full-OS3.0.303.0.WMBMIXM-user-16.0-d294993a48.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nuwa/version/OS3.0.303.0.WMBMIXM/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.10 GB
+        <br/>Date: 2026-10-13
+        <br/>Version: OS3.0.303.0.WMBMIXM
+        <br/>MD5: d294993a487d92b92a922de45a0a4004
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMBMIXM/nuwa_global-ota_full-OS3.0.303.0.WMBMIXM-user-16.0-d294993a48.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nuwa/version/OS3.0.303.0.WMBMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMBMIXM/nuwa_global-ota_full-OS3.0.303.0.WMBMIXM-user-16.0-d294993a48.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 Pro OS3.0.304.0.WMBINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBINXM/nuwa_in_global-ota_full-OS3.0.304.0.WMBINXM-user-16.0-cd1718e6bb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBINXM/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.90 GB
+        <br/>Date: 2026-10-13
+        <br/>Version: OS3.0.304.0.WMBINXM
+        <br/>MD5: cd1718e6bb9a0bba6b9a20a81989b257
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBINXM/nuwa_in_global-ota_full-OS3.0.304.0.WMBINXM-user-16.0-cd1718e6bb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/nuwa/version/OS3.0.304.0.WMBINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMBINXM/nuwa_in_global-ota_full-OS3.0.304.0.WMBINXM-user-16.0-cd1718e6bb.zip" type="application/zip" />
     </item>
     <item>
       <title>Redmi Note 12 NFC 4G OS2.0.210.0.VMGMIXM</title>
