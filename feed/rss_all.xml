@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for All Brands firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 10:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:50:08 GMT</lastBuildDate>
     <item>
       <title>Xiaomi 17T OS3.0.305.0.WPTTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPTTRXM/chagall_tr_global-ota_full-OS3.0.305.0.WPTTRXM-user-16.0-1de68cca30.zip</link>
@@ -198,6 +198,111 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WPSTWXM/warhol_tw_global-ota_full-OS3.0.307.0.WPSTWXM-user-16.0-3bc8a62158.zip" type="application/zip" />
     </item>
     <item>
+      <title>POCO C85 4G / REDMI 15C 4G OS3.0.302.0.WBNTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WBNTRXM/dew_tr_global-ota_full-OS3.0.302.0.WBNTRXM-user-16.0-52fb1ec0cc.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/dew/version/OS3.0.302.0.WBNTRXM/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO C85 4G / REDMI 15C 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.60 GB
+        <br/>Date: 2026-11-20
+        <br/>Version: OS3.0.302.0.WBNTRXM
+        <br/>MD5: 52fb1ec0ccf5cc829916939012c81aa3
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WBNTRXM/dew_tr_global-ota_full-OS3.0.302.0.WBNTRXM-user-16.0-52fb1ec0cc.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/dew/version/OS3.0.302.0.WBNTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WBNTRXM/dew_tr_global-ota_full-OS3.0.302.0.WBNTRXM-user-16.0-52fb1ec0cc.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 14 Pro+ OS3.0.305.0.WOPINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOPINXM/amethyst_in_global-ota_full-OS3.0.305.0.WOPINXM-user-16.0-153b7add99.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/amethyst/version/OS3.0.305.0.WOPINXM/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 14 Pro+
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.40 GB
+        <br/>Date: 2026-11-20
+        <br/>Version: OS3.0.305.0.WOPINXM
+        <br/>MD5: 153b7add99a3ab5d107e2244e279dd59
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOPINXM/amethyst_in_global-ota_full-OS3.0.305.0.WOPINXM-user-16.0-153b7add99.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/amethyst/version/OS3.0.305.0.WOPINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOPINXM/amethyst_in_global-ota_full-OS3.0.305.0.WOPINXM-user-16.0-153b7add99.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 14 Pro+ OS3.0.307.0.WOPEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WOPEUXM/amethyst_eea_global-ota_full-OS3.0.307.0.WOPEUXM-user-16.0-2c654c2c58.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/amethyst/version/OS3.0.307.0.WOPEUXM/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 14 Pro+
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.70 GB
+        <br/>Date: 2026-11-20
+        <br/>Version: OS3.0.307.0.WOPEUXM
+        <br/>MD5: 2c654c2c58a490a000fa8bd6da74e3d1
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WOPEUXM/amethyst_eea_global-ota_full-OS3.0.307.0.WOPEUXM-user-16.0-2c654c2c58.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/amethyst/version/OS3.0.307.0.WOPEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WOPEUXM/amethyst_eea_global-ota_full-OS3.0.307.0.WOPEUXM-user-16.0-2c654c2c58.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Pad SE 8.7 Wi-Fi OS3.0.304.0.WHXEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXEUXM/flare_eea_global-ota_full-OS3.0.304.0.WHXEUXM-user-16.0-0a69be4b74.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/flare/version/OS3.0.304.0.WHXEUXM/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Pad SE 8.7 Wi-Fi
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-20
+        <br/>Version: OS3.0.304.0.WHXEUXM
+        <br/>MD5: 0a69be4b740363692d599f25b4fbc491
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXEUXM/flare_eea_global-ota_full-OS3.0.304.0.WHXEUXM-user-16.0-0a69be4b74.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/flare/version/OS3.0.304.0.WHXEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXEUXM/flare_eea_global-ota_full-OS3.0.304.0.WHXEUXM-user-16.0-0a69be4b74.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Pad SE 8.7 Wi-Fi OS3.0.304.0.WHXMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXMIXM/flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/flare/version/OS3.0.304.0.WHXMIXM/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Pad SE 8.7 Wi-Fi
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-11-20
+        <br/>Version: OS3.0.304.0.WHXMIXM
+        <br/>MD5: 7213e927b569354312409f766d3b7667
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXMIXM/flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/flare/version/OS3.0.304.0.WHXMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WHXMIXM/flare_global-ota_full-OS3.0.304.0.WHXMIXM-user-16.0-7213e927b5.zip" type="application/zip" />
+    </item>
+    <item>
       <title>REDMI K90 / POCO F8 Pro OS4.0.6.0.XPKMIXM</title>
       <link>https://cdnorg.d.miui.com/OS4.0.6.0.XPKMIXM/annibale_global-ota_incremental-OS4.0.2.0.XPKMIXM-OS4.0.6.0.XPKMIXM-user-17.0-4248de52b6.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/annibale/version/OS4.0.6.0.XPKMIXM/</guid>
@@ -364,6 +469,27 @@
         <br/><a href="https://ximitime.com/hyperos/pudding/version/OS4.0.3.0.XPCMIXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://cdnorg.d.miui.com/OS4.0.3.0.XPCMIXM/pudding_global-ota_incremental-OS3.0.337.0.XPCMIXM-OS4.0.3.0.XPCMIXM-user-17.0-e4bfe2c4f4.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 14 OS3.0.303.0.WOQEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQEUXM/beryl_eea_global-ota_full-OS3.0.303.0.WOQEUXM-user-16.0-e425904c64.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/beryl/version/OS3.0.303.0.WOQEUXM/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 14
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.80 GB
+        <br/>Date: 2026-11-19
+        <br/>Version: OS3.0.303.0.WOQEUXM
+        <br/>MD5: e425904c64426ba0b7f52808702a3a3e
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQEUXM/beryl_eea_global-ota_full-OS3.0.303.0.WOQEUXM-user-16.0-e425904c64.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/beryl/version/OS3.0.303.0.WOQEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQEUXM/beryl_eea_global-ota_full-OS3.0.303.0.WOQEUXM-user-16.0-e425904c64.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 18 Pro OS4.0.5.0.XFRMIXM</title>
@@ -576,6 +702,27 @@
       <enclosure url="https://cdnorg.d.miui.com/OS3.0.342.0.XOSEUXM/klimt_eea_global_images_OS3.0.342.0.XOSEUXM_20261020.0000.00_17.0_eea_7c699ddcc7.tgz" type="application/zip" />
     </item>
     <item>
+      <title>Redmi 13R / Redmi 13C 5G OS2.0.209.0.VGQMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VGQMIXM/air_global-ota_full-OS2.0.209.0.VGQMIXM-user-15.0-332077227f.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/air/version/OS2.0.209.0.VGQMIXM/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi 13R / Redmi 13C 5G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-18
+        <br/>Version: OS2.0.209.0.VGQMIXM
+        <br/>MD5: 332077227f60eb91fed71df56cac5479
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VGQMIXM/air_global-ota_full-OS2.0.209.0.VGQMIXM-user-15.0-332077227f.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/air/version/OS2.0.209.0.VGQMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VGQMIXM/air_global-ota_full-OS2.0.209.0.VGQMIXM-user-15.0-332077227f.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO F6 Pro / Redmi K70 OS3.0.308.0.WNKCNXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.308.0.WNKCNXM/vermeer-ota_full-OS3.0.308.0.WNKCNXM-user-16.0-0534f299eb.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/vermeer/version/OS3.0.308.0.WNKCNXM/</guid>
@@ -786,6 +933,90 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WPRINXM/flourite_in_global-ota_full-OS3.0.306.0.WPRINXM-user-16.0-2fbadd6359.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi Pad 7S Pro 12.5 OS4.0.6.0.XOTCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.6.0.XOTCNXM/violin-images-OS4.0.6.0.XOTCNXM-user-20261112.0000.00-17.0-cn-8dab5b9caa.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/violin/version/OS4.0.6.0.XOTCNXM/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 7S Pro 12.5
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.20 GB
+        <br/>Date: 2026-11-17
+        <br/>Version: OS4.0.6.0.XOTCNXM
+        <br/>MD5: e0b0fc6c62b91d8eaf877ae65328dfee
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.6.0.XOTCNXM/violin-images-OS4.0.6.0.XOTCNXM-user-20261112.0000.00-17.0-cn-8dab5b9caa.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/violin/version/OS4.0.6.0.XOTCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.6.0.XOTCNXM/violin-images-OS4.0.6.0.XOTCNXM-user-20261112.0000.00-17.0-cn-8dab5b9caa.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F7 / REDMI Turbo 4 Pro OS4.0.4.0.XOLCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOLCNXM/onyx_images_OS4.0.4.0.XOLCNXM_20261114.0000.00_17.0_cn_a7720b1b6c.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/onyx/version/OS4.0.4.0.XOLCNXM/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F7 / REDMI Turbo 4 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.10 GB
+        <br/>Date: 2026-11-17
+        <br/>Version: OS4.0.4.0.XOLCNXM
+        <br/>MD5: 0343091c6993f187980ce0a96d0402e3
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOLCNXM/onyx_images_OS4.0.4.0.XOLCNXM_20261114.0000.00_17.0_cn_a7720b1b6c.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/onyx/version/OS4.0.4.0.XOLCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOLCNXM/onyx_images_OS4.0.4.0.XOLCNXM_20261114.0000.00_17.0_cn_a7720b1b6c.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 13 Pro+ OS3.0.302.0.WNOTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTWXM/zircon_tw_global-ota_full-OS3.0.302.0.WNOTWXM-user-16.0-066b83fd8d.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zircon/version/OS3.0.302.0.WNOTWXM/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 13 Pro+
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.90 GB
+        <br/>Date: 2026-11-17
+        <br/>Version: OS3.0.302.0.WNOTWXM
+        <br/>MD5: 066b83fd8d79e77df48a7ef6032b3ae8
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTWXM/zircon_tw_global-ota_full-OS3.0.302.0.WNOTWXM-user-16.0-066b83fd8d.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/zircon/version/OS3.0.302.0.WNOTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTWXM/zircon_tw_global-ota_full-OS3.0.302.0.WNOTWXM-user-16.0-066b83fd8d.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 13 Pro+ OS3.0.302.0.WNOTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTRXM/zircon_tr_global-ota_full-OS3.0.302.0.WNOTRXM-user-16.0-5b0dc6f934.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zircon/version/OS3.0.302.0.WNOTRXM/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 13 Pro+
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-11-17
+        <br/>Version: OS3.0.302.0.WNOTRXM
+        <br/>MD5: 5b0dc6f93428e92fa951ccbd710c4b7a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTRXM/zircon_tr_global-ota_full-OS3.0.302.0.WNOTRXM-user-16.0-5b0dc6f934.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/zircon/version/OS3.0.302.0.WNOTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNOTRXM/zircon_tr_global-ota_full-OS3.0.302.0.WNOTRXM-user-16.0-5b0dc6f934.zip" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi 15S Pro OS4.0.5.0.XODCNXM</title>
       <link>https://cdnorg.d.miui.com/OS4.0.5.0.XODCNXM/dijun-images-OS4.0.5.0.XODCNXM-user-20261112.0000.00-17.0-cn-9762886b1d.tgz</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/dijun/version/OS4.0.5.0.XODCNXM/</guid>
@@ -954,6 +1185,447 @@
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPJTWXM/klee_tw_global-ota_full-OS3.0.305.0.WPJTWXM-user-16.0-87cce2c141.zip" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi MIX FLIP 2 OS4.0.4.0.XOHCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOHCNXM/bixi_images_OS4.0.4.0.XOHCNXM_20261113.0000.00_17.0_cn_7dc4f209b6.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/bixi/version/OS4.0.4.0.XOHCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi MIX FLIP 2
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.80 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOHCNXM
+        <br/>MD5: a6ba7e3e2cdf35dba1924d46239e4666
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOHCNXM/bixi_images_OS4.0.4.0.XOHCNXM_20261113.0000.00_17.0_cn_7dc4f209b6.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/bixi/version/OS4.0.4.0.XOHCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOHCNXM/bixi_images_OS4.0.4.0.XOHCNXM_20261113.0000.00_17.0_cn_7dc4f209b6.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 7 Ultra OS4.0.5.0.XOXCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.5.0.XOXCNXM/jinghu-images-OS4.0.5.0.XOXCNXM-user-20261112.0000.00-17.0-cn-070bc505ef.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/jinghu/version/OS4.0.5.0.XOXCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 7 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.10 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.5.0.XOXCNXM
+        <br/>MD5: 773ff38a78b1cb64b6383c126d91f346
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.5.0.XOXCNXM/jinghu-images-OS4.0.5.0.XOXCNXM-user-20261112.0000.00-17.0-cn-070bc505ef.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/jinghu/version/OS4.0.5.0.XOXCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.5.0.XOXCNXM/jinghu-images-OS4.0.5.0.XOXCNXM-user-20261112.0000.00-17.0-cn-070bc505ef.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F7 Pro / REDMI K80 OS4.0.3.0.XOKCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.3.0.XOKCNXM/zorn_images_OS4.0.3.0.XOKCNXM_20261106.0000.00_17.0_cn_f09f6ec2fb.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/zorn/version/OS4.0.3.0.XOKCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F7 Pro / REDMI K80
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 7.30 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.3.0.XOKCNXM
+        <br/>MD5: 3e3ae497fc84c73d6f0bdbec82bb0f73
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.3.0.XOKCNXM/zorn_images_OS4.0.3.0.XOKCNXM_20261106.0000.00_17.0_cn_f09f6ec2fb.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/zorn/version/OS4.0.3.0.XOKCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.3.0.XOKCNXM/zorn_images_OS4.0.3.0.XOKCNXM_20261106.0000.00_17.0_cn_f09f6ec2fb.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 15 Ultra OS4.0.4.0.XOACNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOACNXM/xuanyuan_images_OS4.0.4.0.XOACNXM_20261112.0000.00_17.0_cn_ff7d783725.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xuanyuan/version/OS4.0.4.0.XOACNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 15 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 9.70 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOACNXM
+        <br/>MD5: a05ed5a444499893b4f2f186479934c7
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOACNXM/xuanyuan_images_OS4.0.4.0.XOACNXM_20261112.0000.00_17.0_cn_ff7d783725.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/xuanyuan/version/OS4.0.4.0.XOACNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOACNXM/xuanyuan_images_OS4.0.4.0.XOACNXM_20261112.0000.00_17.0_cn_ff7d783725.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 15 Ultra OS3.0.305.0.WOAMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOAMIXM/xuanyuan_global-ota_full-OS3.0.305.0.WOAMIXM-user-16.0-17a278d955.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xuanyuan/version/OS3.0.305.0.WOAMIXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 15 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.305.0.WOAMIXM
+        <br/>MD5: 17a278d955f3cae63063caa053b72639
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOAMIXM/xuanyuan_global-ota_full-OS3.0.305.0.WOAMIXM-user-16.0-17a278d955.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xuanyuan/version/OS3.0.305.0.WOAMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOAMIXM/xuanyuan_global-ota_full-OS3.0.305.0.WOAMIXM-user-16.0-17a278d955.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 15 Ultra OS3.0.303.0.WOATWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOATWXM/xuanyuan_tw_global-ota_full-OS3.0.303.0.WOATWXM-user-16.0-d2983e94e2.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/xuanyuan/version/OS3.0.303.0.WOATWXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 15 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 8.40 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.303.0.WOATWXM
+        <br/>MD5: d2983e94e2eeb6acd45a747544cf61f1
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOATWXM/xuanyuan_tw_global-ota_full-OS3.0.303.0.WOATWXM-user-16.0-d2983e94e2.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/xuanyuan/version/OS3.0.303.0.WOATWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOATWXM/xuanyuan_tw_global-ota_full-OS3.0.303.0.WOATWXM-user-16.0-d2983e94e2.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X7 Pro / REDMI Turbo 4 OS4.0.4.0.XOJCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOJCNXM/rodin_images_OS4.0.4.0.XOJCNXM_20261112.0000.00_17.0_cn_2949ce2d4f.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/rodin/version/OS4.0.4.0.XOJCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X7 Pro / REDMI Turbo 4
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 7.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOJCNXM
+        <br/>MD5: 4f53a233f486c2c839ee8b345d506e2a
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOJCNXM/rodin_images_OS4.0.4.0.XOJCNXM_20261112.0000.00_17.0_cn_2949ce2d4f.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/rodin/version/OS4.0.4.0.XOJCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOJCNXM/rodin_images_OS4.0.4.0.XOJCNXM_20261112.0000.00_17.0_cn_2949ce2d4f.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 15 OS4.0.4.0.XOCCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOCCNXM/dada_images_OS4.0.4.0.XOCCNXM_20261112.0000.00_17.0_cn_f6f15c910c.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/dada/version/OS4.0.4.0.XOCCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 15
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.20 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOCCNXM
+        <br/>MD5: 92227559a419839436075a1bf25d7784
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOCCNXM/dada_images_OS4.0.4.0.XOCCNXM_20261112.0000.00_17.0_cn_f6f15c910c.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/dada/version/OS4.0.4.0.XOCCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOCCNXM/dada_images_OS4.0.4.0.XOCCNXM_20261112.0000.00_17.0_cn_f6f15c910c.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi Pad 7 OS4.0.4.0.XOZCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOZCNXM/uke_images_OS4.0.4.0.XOZCNXM_20261106.0000.00_17.0_cn_c5b014891d.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/uke/version/OS4.0.4.0.XOZCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Pad 7
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOZCNXM
+        <br/>MD5: 0f9e60cb2178c54211b2a241ba060be4
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOZCNXM/uke_images_OS4.0.4.0.XOZCNXM_20261106.0000.00_17.0_cn_c5b014891d.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/uke/version/OS4.0.4.0.XOZCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOZCNXM/uke_images_OS4.0.4.0.XOZCNXM_20261106.0000.00_17.0_cn_c5b014891d.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 15 Pro OS4.0.4.0.XOBCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.4.0.XOBCNXM/haotian_images_OS4.0.4.0.XOBCNXM_20261112.0000.00_17.0_cn_24c87bcf80.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/haotian/version/OS4.0.4.0.XOBCNXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 15 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.30 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS4.0.4.0.XOBCNXM
+        <br/>MD5: 42c1452dc38f2c0d2eebd6abdfd4f1c2
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.4.0.XOBCNXM/haotian_images_OS4.0.4.0.XOBCNXM_20261112.0000.00_17.0_cn_24c87bcf80.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/haotian/version/OS4.0.4.0.XOBCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XOBCNXM/haotian_images_OS4.0.4.0.XOBCNXM_20261112.0000.00_17.0_cn_24c87bcf80.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X7 / Redmi Note 14 Pro OS3.0.305.0.WOOEUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOOEUXM/malachite_eea_global-ota_full-OS3.0.305.0.WOOEUXM-user-16.0-0ddce2ec14.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/malachite/version/OS3.0.305.0.WOOEUXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X7 / Redmi Note 14 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.20 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.305.0.WOOEUXM
+        <br/>MD5: 0ddce2ec14a28a2cbcc6d5ece2af2153
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOOEUXM/malachite_eea_global-ota_full-OS3.0.305.0.WOOEUXM-user-16.0-0ddce2ec14.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/malachite/version/OS3.0.305.0.WOOEUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WOOEUXM/malachite_eea_global-ota_full-OS3.0.305.0.WOOEUXM-user-16.0-0ddce2ec14.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 14 OS3.0.303.0.WOQINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQINXM/beryl_in_global-ota_full-OS3.0.303.0.WOQINXM-user-16.0-ec2e1f86e6.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/beryl/version/OS3.0.303.0.WOQINXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 14
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.303.0.WOQINXM
+        <br/>MD5: ec2e1f86e6513e25a040d09e48f88f8f
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQINXM/beryl_in_global-ota_full-OS3.0.303.0.WOQINXM-user-16.0-ec2e1f86e6.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/beryl/version/OS3.0.303.0.WOQINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WOQINXM/beryl_in_global-ota_full-OS3.0.303.0.WOQINXM-user-16.0-ec2e1f86e6.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Pad SE 4G OS3.0.306.0.WHYMIXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WHYMIXM/spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/spark/version/OS3.0.306.0.WHYMIXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Pad SE 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.306.0.WHYMIXM
+        <br/>MD5: b7519c08cbf1243aa4551d83f1b9719a
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WHYMIXM/spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/spark/version/OS3.0.306.0.WHYMIXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WHYMIXM/spark_global-ota_full-OS3.0.306.0.WHYMIXM-user-16.0-b7519c08cb.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13T Pro / Redmi K60 Ultra OS3.0.304.0.WMLRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMLRUXM/corot_ru_global-ota_full-OS3.0.304.0.WMLRUXM-user-16.0-1b62ba5169.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/corot/version/OS3.0.304.0.WMLRUXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13T Pro / Redmi K60 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.304.0.WMLRUXM
+        <br/>MD5: 1b62ba516901e1570611d79dfcfd65c3
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMLRUXM/corot_ru_global-ota_full-OS3.0.304.0.WMLRUXM-user-16.0-1b62ba5169.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/corot/version/OS3.0.304.0.WMLRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMLRUXM/corot_ru_global-ota_full-OS3.0.304.0.WMLRUXM-user-16.0-1b62ba5169.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13T Pro / Redmi K60 Ultra OS3.0.306.0.WMLTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.306.0.WMLTRXM-user-16.0-b1237051f9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/corot/version/OS3.0.306.0.WMLTRXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13T Pro / Redmi K60 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.10 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.306.0.WMLTRXM
+        <br/>MD5: b1237051f9898e48757ffd5ff48d440c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.306.0.WMLTRXM-user-16.0-b1237051f9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/corot/version/OS3.0.306.0.WMLTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.306.0.WMLTRXM-user-16.0-b1237051f9.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13T Pro / Redmi K60 Ultra OS3.0.306.0.WMLTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTWXM/corot_tw_global-ota_full-OS3.0.306.0.WMLTWXM-user-16.0-14cf4f05a3.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/corot/version/OS3.0.306.0.WMLTWXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13T Pro / Redmi K60 Ultra
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.306.0.WMLTWXM
+        <br/>MD5: 14cf4f05a340f79139cbfafe779d4315
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTWXM/corot_tw_global-ota_full-OS3.0.306.0.WMLTWXM-user-16.0-14cf4f05a3.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/corot/version/OS3.0.306.0.WMLTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMLTWXM/corot_tw_global-ota_full-OS3.0.306.0.WMLTWXM-user-16.0-14cf4f05a3.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 12 4G OS2.0.206.0.VMTINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTINXM/tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/tapas/version/OS2.0.206.0.VMTINXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 12 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.30 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS2.0.206.0.VMTINXM
+        <br/>MD5: 86043c94f8c2f51faafb790d6bc8fb00
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTINXM/tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/tapas/version/OS2.0.206.0.VMTINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTINXM/tapas_in_global-ota_full-OS2.0.206.0.VMTINXM-user-15.0-86043c94f8.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 12 4G OS2.0.206.0.VMTTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTTRXM/tapas_tr_global-ota_full-OS2.0.206.0.VMTTRXM-user-15.0-d8b2e28061.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/tapas/version/OS2.0.206.0.VMTTRXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 12 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS2.0.206.0.VMTTRXM
+        <br/>MD5: d8b2e280615f07882a3dbc442fdfadf2
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTTRXM/tapas_tr_global-ota_full-OS2.0.206.0.VMTTRXM-user-15.0-d8b2e28061.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/tapas/version/OS2.0.206.0.VMTTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMTTRXM/tapas_tr_global-ota_full-OS2.0.206.0.VMTTRXM-user-15.0-d8b2e28061.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 12 NFC 4G OS2.0.206.0.VMGIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGIDXM/topaz_id_global-ota_full-OS2.0.206.0.VMGIDXM-user-15.0-e405c483d9.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/topaz/version/OS2.0.206.0.VMGIDXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 12 NFC 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS2.0.206.0.VMGIDXM
+        <br/>MD5: e405c483d9b5992e8dd91dece1a70073
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGIDXM/topaz_id_global-ota_full-OS2.0.206.0.VMGIDXM-user-15.0-e405c483d9.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/topaz/version/OS2.0.206.0.VMGIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGIDXM/topaz_id_global-ota_full-OS2.0.206.0.VMGIDXM-user-15.0-e405c483d9.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Note 12 NFC 4G OS2.0.206.0.VMGRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGRUXM/topaz_ru_global-ota_full-OS2.0.206.0.VMGRUXM-user-15.0-8c8d81b466.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/topaz/version/OS2.0.206.0.VMGRUXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Note 12 NFC 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 2.2
+        <br/>Android: 15.0
+        <br/>Size: 4.50 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS2.0.206.0.VMGRUXM
+        <br/>MD5: 8c8d81b466927b02629e3c85f7220557
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGRUXM/topaz_ru_global-ota_full-OS2.0.206.0.VMGRUXM-user-15.0-8c8d81b466.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/topaz/version/OS2.0.206.0.VMGRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VMGRUXM/topaz_ru_global-ota_full-OS2.0.206.0.VMGRUXM-user-15.0-8c8d81b466.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 OS3.0.304.0.WMCRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCRUXM/fuxi_ru_global-ota_full-OS3.0.304.0.WMCRUXM-user-16.0-396333fb15.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/fuxi/version/OS3.0.304.0.WMCRUXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.304.0.WMCRUXM
+        <br/>MD5: 396333fb151684b1aa02acf27903e182
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCRUXM/fuxi_ru_global-ota_full-OS3.0.304.0.WMCRUXM-user-16.0-396333fb15.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/fuxi/version/OS3.0.304.0.WMCRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCRUXM/fuxi_ru_global-ota_full-OS3.0.304.0.WMCRUXM-user-16.0-396333fb15.zip" type="application/zip" />
+    </item>
+    <item>
       <title>POCO X8 Power / Redmi Note 17 Pro Max OS3.0.306.0.WDRTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WDRTRXM/brussels_tr_global-ota_full-OS3.0.306.0.WDRTRXM-user-16.0-2bbfec324f.zip</link>
       <guid isPermaLink="false">https://ximitime.com/hyperos/brussels/version/OS3.0.306.0.WDRTRXM/</guid>
@@ -1015,6 +1687,216 @@
         <br/><a href="https://ximitime.com/hyperos/klee/version/OS4.0.5.0.XPJCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://cdnorg.d.miui.com/OS4.0.5.0.XPJCNXM/klee_images_OS4.0.5.0.XPJCNXM_20261106.0000.00_17.0_cn_ff1748e9e3.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi CIVI 5 Pro OS4.0.2.0.XOICNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.2.0.XOICNXM/luming_images_OS4.0.2.0.XOICNXM_20261106.0000.00_17.0_cn_4b9c00d407.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/luming/version/OS4.0.2.0.XOICNXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi CIVI 5 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.20 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS4.0.2.0.XOICNXM
+        <br/>MD5: 4e29a3f08f525c864323748d32cf9b14
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.2.0.XOICNXM/luming_images_OS4.0.2.0.XOICNXM_20261106.0000.00_17.0_cn_4b9c00d407.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/luming/version/OS4.0.2.0.XOICNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.2.0.XOICNXM/luming_images_OS4.0.2.0.XOICNXM_20261106.0000.00_17.0_cn_4b9c00d407.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO F7 Ultra / REDMI K80 Pro OS4.0.3.0.XOMCNXM</title>
+      <link>https://cdnorg.d.miui.com/OS4.0.3.0.XOMCNXM/miro_images_OS4.0.3.0.XOMCNXM_20261106.0000.00_17.0_cn_1e709e50a4.tgz</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/miro/version/OS4.0.3.0.XOMCNXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO F7 Ultra / REDMI K80 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 4.0
+        <br/>Android: 17.0
+        <br/>Size: 8.60 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS4.0.3.0.XOMCNXM
+        <br/>MD5: 526d60ce11cc9ad685555551c4b47812
+        
+        <br/><a href="https://cdnorg.d.miui.com/OS4.0.3.0.XOMCNXM/miro_images_OS4.0.3.0.XOMCNXM_20261106.0000.00_17.0_cn_1e709e50a4.tgz">Direct Download (Xiaomi OTA CDN)</a>
+        <br/><a href="https://ximitime.com/hyperos/miro/version/OS4.0.3.0.XOMCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://cdnorg.d.miui.com/OS4.0.3.0.XOMCNXM/miro_images_OS4.0.3.0.XOMCNXM_20261106.0000.00_17.0_cn_1e709e50a4.tgz" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 14 CIVI / Xiaomi Civi 4 Pro OS3.0.310.0.WNJCNXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WNJCNXM/chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/chenfeng/version/OS3.0.310.0.WNJCNXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 14 CIVI / Xiaomi Civi 4 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: China
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.80 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.310.0.WNJCNXM
+        <br/>MD5: d4b8d0785d9654179a370d9afaff2549
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WNJCNXM/chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/chenfeng/version/OS3.0.310.0.WNJCNXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WNJCNXM/chenfeng-ota_full-OS3.0.310.0.WNJCNXM-user-16.0-d4b8d0785d.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 14 CIVI / Xiaomi Civi 4 Pro OS3.0.304.0.WNJINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/chenfeng/version/OS3.0.304.0.WNJINXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 14 CIVI / Xiaomi Civi 4 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 6.00 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.304.0.WNJINXM
+        <br/>MD5: 31154e8c9e19a310b855cfe05d613815
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/chenfeng/version/OS3.0.304.0.WNJINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WNJINXM/chenfeng_in_global-ota_full-OS3.0.304.0.WNJINXM-user-16.0-31154e8c9e.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.303.0.WNREUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNREUXM/garnet_eea_global-ota_full-OS3.0.303.0.WNREUXM-user-16.0-653f79ac50.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNREUXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: EEA Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.60 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.303.0.WNREUXM
+        <br/>MD5: 653f79ac50e2b14aafe98cae84be678c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNREUXM/garnet_eea_global-ota_full-OS3.0.303.0.WNREUXM-user-16.0-653f79ac50.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNREUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNREUXM/garnet_eea_global-ota_full-OS3.0.303.0.WNREUXM-user-16.0-653f79ac50.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.302.0.WNRINXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNRINXM/garnet_in_global-ota_full-OS3.0.302.0.WNRINXM-user-16.0-24c5e365d6.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.302.0.WNRINXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: India Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.30 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.302.0.WNRINXM
+        <br/>MD5: 24c5e365d6a9d9acab59551375383855
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNRINXM/garnet_in_global-ota_full-OS3.0.302.0.WNRINXM-user-16.0-24c5e365d6.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.302.0.WNRINXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WNRINXM/garnet_in_global-ota_full-OS3.0.302.0.WNRINXM-user-16.0-24c5e365d6.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.303.0.WNRTRXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTRXM/garnet_tr_global-ota_full-OS3.0.303.0.WNRTRXM-user-16.0-a332d69004.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRTRXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Turkey Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.50 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.303.0.WNRTRXM
+        <br/>MD5: a332d69004bc6fbfee865c1b88f3e2c8
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTRXM/garnet_tr_global-ota_full-OS3.0.303.0.WNRTRXM-user-16.0-a332d69004.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRTRXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTRXM/garnet_tr_global-ota_full-OS3.0.303.0.WNRTRXM-user-16.0-a332d69004.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.303.0.WNRTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTWXM/garnet_tw_global-ota_full-OS3.0.303.0.WNRTWXM-user-16.0-4b0bec9f08.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRTWXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.40 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.303.0.WNRTWXM
+        <br/>MD5: 4b0bec9f089b701f288ca0cca48713b5
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTWXM/garnet_tw_global-ota_full-OS3.0.303.0.WNRTWXM-user-16.0-4b0bec9f08.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRTWXM/garnet_tw_global-ota_full-OS3.0.303.0.WNRTWXM-user-16.0-4b0bec9f08.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.303.0.WNRIDXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRIDXM/garnet_id_global-ota_full-OS3.0.303.0.WNRIDXM-user-16.0-4a40531031.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRIDXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Indonesia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.50 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.303.0.WNRIDXM
+        <br/>MD5: 4a40531031c28d182b225d8b614daf2d
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRIDXM/garnet_id_global-ota_full-OS3.0.303.0.WNRIDXM-user-16.0-4a40531031.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRIDXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRIDXM/garnet_id_global-ota_full-OS3.0.303.0.WNRIDXM-user-16.0-4a40531031.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>POCO X6 5G / Redmi Note 13 Pro OS3.0.303.0.WNRRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRRUXM/garnet_ru_global-ota_full-OS3.0.303.0.WNRRUXM-user-16.0-10290ea123.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRRUXM/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: POCO X6 5G / Redmi Note 13 Pro
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.40 GB
+        <br/>Date: 2026-11-14
+        <br/>Version: OS3.0.303.0.WNRRUXM
+        <br/>MD5: 10290ea1230f4be5306a22581d8e183c
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRRUXM/garnet_ru_global-ota_full-OS3.0.303.0.WNRRUXM-user-16.0-10290ea123.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/garnet/version/OS3.0.303.0.WNRRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNRRUXM/garnet_ru_global-ota_full-OS3.0.303.0.WNRRUXM-user-16.0-10290ea123.zip" type="application/zip" />
     </item>
     <item>
       <title>Xiaomi 17T OS3.0.305.0.WPTRUXM</title>
@@ -1246,6 +2128,27 @@
         <br/><a href="https://ximitime.com/hyperos/dash/version/OS4.0.4.0.XPLCNXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://cdnorg.d.miui.com/OS4.0.4.0.XPLCNXM/dash-ota_incremental-OS4.0.3.0.XPLCNXM-OS4.0.4.0.XPLCNXM-user-17.0-3e3aea3e67.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Redmi Pad SE 4G OS3.0.303.0.WHYRUXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WHYRUXM/spark_ru_global-ota_full-OS3.0.303.0.WHYRUXM-user-16.0-f1d99982db.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/spark/version/OS3.0.303.0.WHYRUXM/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Redmi Pad SE 4G
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Russia Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 4.40 GB
+        <br/>Date: 2026-11-13
+        <br/>Version: OS3.0.303.0.WHYRUXM
+        <br/>MD5: f1d99982db5abc783ceac968ca7911d5
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WHYRUXM/spark_ru_global-ota_full-OS3.0.303.0.WHYRUXM-user-16.0-f1d99982db.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/spark/version/OS3.0.303.0.WHYRUXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WHYRUXM/spark_ru_global-ota_full-OS3.0.303.0.WHYRUXM-user-16.0-f1d99982db.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO X8 Power / Redmi Note 17 Pro Max OS3.0.306.0.WDRJPXM</title>
