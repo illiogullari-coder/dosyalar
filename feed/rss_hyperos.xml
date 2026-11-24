@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Xiaomi HyperOS firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:18:28 GMT</lastBuildDate>
     <item>
       <title>Xiaomi 17T OS3.0.305.0.WPTTRXM</title>
       <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WPTTRXM/chagall_tr_global-ota_full-OS3.0.305.0.WPTTRXM-user-16.0-1de68cca30.zip</link>
@@ -1624,6 +1624,27 @@
         <br/><a href="https://ximitime.com/hyperos/fuxi/version/OS3.0.304.0.WMCRUXM/">Source Page</a>
       ]]></description>
       <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCRUXM/fuxi_ru_global-ota_full-OS3.0.304.0.WMCRUXM-user-16.0-396333fb15.zip" type="application/zip" />
+    </item>
+    <item>
+      <title>Xiaomi 13 OS3.0.304.0.WMCTWXM</title>
+      <link>https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCTWXM/fuxi_tw_global-ota_full-OS3.0.304.0.WMCTWXM-user-16.0-b347c89d5b.zip</link>
+      <guid isPermaLink="false">https://ximitime.com/hyperos/fuxi/version/OS3.0.304.0.WMCTWXM/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi 13
+        <br/>Brand: Xiaomi HyperOS
+        <br/>Region: Taiwan Global
+        <br/>OS Type: HyperOS 3.1
+        <br/>Android: 16.0
+        <br/>Size: 5.90 GB
+        <br/>Date: 2026-11-16
+        <br/>Version: OS3.0.304.0.WMCTWXM
+        <br/>MD5: b347c89d5b7966fbbea2b6dd5a5dc4d9
+        
+        <br/><a href="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCTWXM/fuxi_tw_global-ota_full-OS3.0.304.0.WMCTWXM-user-16.0-b347c89d5b.zip">Direct Download (Xiaomi OTA CDN (Aliyun OSS))</a>
+        <br/><a href="https://ximitime.com/hyperos/fuxi/version/OS3.0.304.0.WMCTWXM/">Source Page</a>
+      ]]></description>
+      <enclosure url="https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMCTWXM/fuxi_tw_global-ota_full-OS3.0.304.0.WMCTWXM-user-16.0-b347c89d5b.zip" type="application/zip" />
     </item>
     <item>
       <title>POCO X8 Power / Redmi Note 17 Pro Max OS3.0.306.0.WDRTRXM</title>
